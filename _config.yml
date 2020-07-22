@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Permalinks
 permalink:      pretty
-baseurl: 	    	/2019f-UVA-CS6316-MachineLearning/
+baseurl: 	    	/2020f-UVA-CS-MachineLearningMath/
 url:            https://qiyanjun.github.io/
 
 # Setup
