@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Quick survey of recent deep learning
+title: Recent deep learning on Text
 lecture: L15c-deepReview 
 lectureVersion: next
 extraContent: L16-PCA 
 video: <a href="https://youtu.be/gfvY30w4MoY"> video</a> 
 notes: <a href="https://github.com/afshinea/stanford-cs-230-deep-learning"> DNN Cheatsheets </a> 
-categories: structured
+categories: 1d (language)
 tags:
 - 3Classification
 - Nonlinear

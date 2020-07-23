@@ -49,33 +49,38 @@ desc: 'Website for 2020-Fall-UVA-CS Machine Learning, Math Foundation and Good U
 {% assign currentTag = 0 %}
 {% assign sorted = site.contents %}
 
-{% assign ddates = "0825|Ext|0827|0901|0903|0908|Ext|0910|0915|0917|0922|0924|Ext|0929|1001|1006|1008|1013|1015|1020|1022|1027|1029|1103|1105|1110|1112|1117|1119|1124" | split: "|" %}
+{% assign ddates = "0825|Ext|0827|0901|0903|0908|Ext|0910|0915|0917|0922|0924|Ext|0929|1001|1006|1008|1013|1015|1020|Ext|1022|1027|1029|1103|1105|1110|1112|1117|Ext|1119|1124" | split: "|" %}
 
-{% assign dweeks = "W1|W1|W1|W2|W2|W3|W3|W3|W4|W4|W5|W5|W5|W6|W6|W7|W7|W8|W8|W9|W9|W10|W10|W11|W11|W12|W12|W13|W13|W14" | split: "|" %}
+{% assign dweeks = "W1|Ext|W1|W2|W2|W3|Ext|W3|W4|W4|W5|W5|Ext|W6|W6|W7|W7|Ext|W8|W9|Ext|W9|W10|W10|W11|W11|W12|W12|W13|Ext|W13|W14|W14|W15" | split: "|" %}
 
-{% assign Qdates = "|Q0||Q1||Q2||Q3||Q4||Q5|||Q6||Q7||Q8||Q9||Q10||Q11||Q12|" | split: "|" %}
+{% assign Qdates = "|Q0|||Q1||Q2|| |Q3| |Q4| | |Q5|| Q6|| | Q7|| |Q8||Q9||Q10||Q11|| |Q12|" | split: "|" %}
 
 {% for post in sorted %}
 
 {% if currentTag == 0 %}
   {% unless post.lectureVersion contains 'current'  %}
-    <tr><td align="center" bgcolor="#bafdfb"  colspan="7"><font color="#990000"><b>WE ARE HERE</b></font></td></tr>
+    <tr><td align="center" bgcolor="#bafdfb"  colspan="9"><font color="#990000"><b>WE ARE HERE</b></font></td></tr>
     {% assign currentTag=currentTag | plus:1 %}
   {% endunless %}
 {% endif %}
 
 
-<tr>
+{% if  dweeks[counter]  contains 'Ext'  %}
+  <tr bgcolor="gainsboro">
+{% else %}
+  <tr >
+{% endif %}
 
 <td>{{ ddates[counter] }} </td>
 <td>{{ dweeks[counter] }}</td>
+
 {% assign counter=counter | plus:1 %}
 
 {% if  Qdates[counter]  contains 'Q'  %}
-<td>{{ Qdates[counter] }}</td>
-{% assign Qcounter=Qcounter | plus:1 %}
+  <td>{{ Qdates[counter] }}</td>
+  {% assign Qcounter=Qcounter | plus:1 %}
 {% else %}
-<td></td>
+  <td></td>
 {% endif %}
 
 <td>{{ post.title }}</td>
@@ -86,7 +91,8 @@ desc: 'Website for 2020-Fall-UVA-CS Machine Learning, Math Foundation and Good U
 <td></td>
 {% endif %}
 
-<td>{{ post.data }} </td>
+
+<td align="center"><font color="#990000"><b>{{ post.categories }} </b></font></td>
 
 {% if post.extraContent %}
 <td><a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"> Notes: {{ post.extraContent }}</a></td>
