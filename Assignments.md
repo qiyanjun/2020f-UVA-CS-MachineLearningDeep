@@ -6,7 +6,7 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
 
 <hr>
 
-### Six assignments (60%)
+### Five assignments (60%)
 + Post in collab 
 + You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
 [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu).
@@ -59,14 +59,7 @@ desc: "Information of Assignments and Final Project for 2019 Fall UVa CS 6316 Ma
   <td>Out in Collab</td>
   <td>W12</td>
   <td>W14</td>
-  <td>Naive Bayes to implement</td>
-</tr>
-<tr>
-  <td>HW6</td>
-  <td>Out in Collab</td>
-  <td>W14</td>
-  <td>W16</td>
-  <td>k-Means and GMM to implement</td>
+  <td>k-Means and NBC to implement</td>
 </tr>
 </table>
 
