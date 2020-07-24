@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  RL
-lecture: L18b-ensemble
+lecture: S5-reinforcement-learning
 lectureVersion: next
 extraContent: L18c-More-Boosting  
 notes: <a href="https://github.com/dmlc/xgboost"> xgboost </a> 

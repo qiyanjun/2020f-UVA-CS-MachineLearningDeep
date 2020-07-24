@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feature Selection and Model Selection
-lecture: L07-feaSelc
+lecture: S4-feaSelc
 lectureVersion: next
 video: <a href="https://youtu.be/jDHgFQW6UzA"> video</a>
 extraContent: L07-FeatureSelect-jmlrPaper

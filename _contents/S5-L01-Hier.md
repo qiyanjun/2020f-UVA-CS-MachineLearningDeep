@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clustering Hier
-lecture: L19-clustering1-Hier
+lecture: S5-clustering-Hier
 lectureVersion: next
 video: <a href="https://www.youtube.com/watch?v=T0LRqQwcd9U"> video</a> 
 extraContent: L19c-clustering3-GMM 

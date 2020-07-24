@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Final Project Presentations
+title: Friday Project Presentations
 lecture: Team Presentations
 lectureVersion: next
 extraContent:

@@ -50,12 +50,11 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 + ##### Prof. Yanjun Qi: 
   - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}
-  - [yanjun@virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu);  
+  - [yanjun@virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu);  
   - Rice Hall 503, 243-3089;  
-  - Office hours: Friday 8:30am-9:30am
 
 + ##### TAs: 
-   + [TBD](mailto:instructors-19f-cs-6316@collab.its.virginia.edu): 
+   + [TBD](mailto:instructors-20f-cs-6316@collab.its.virginia.edu): 
 
 
 + #### TA office hours in Rice  
@@ -68,10 +67,10 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 ### Course Websites
 
-+ Course schedule and materials are  @ [https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning/](https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning/)
++ Course schedule and materials are  @ [https://qiyanjun.github.io/2020f-UVA-CS6316-MachineLearning/](https://qiyanjun.github.io/2020f-UVA-CS6316-MachineLearning/)
 + Course Piazza page for QA of exams, quizzes, class-discussions and assignments.
 + Course Collab page to submit  assignments and project reports.
-+ All logistic issues are announced via course [email list](mailto:19f-cs-6316-ml@collab.its.virginia.edu)
++ All logistic issues are announced via course [email list](mailto:20f-cs-6316-ml@collab.its.virginia.edu)
 
 
 
@@ -89,7 +88,7 @@ at 11:59pm on the due date </b>.
 + Programming solutions should be placed in each student's appropriate
  Collab  directory.
 
-+ #### All communications regarding late assignment submissions should go directly to [instructors-19f-cs-6316@collab.its.virginia.edu](mailto:instructors-19f-cs-6316@collab.its.virginia.edu), not with the instructor.
++ #### All communications regarding late assignment submissions should go directly to [instructors-20f-cs-6316@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu), not with the instructor.
 
 + About Extensions:
   + Each student has <b>three</b> extension days to be used at his or

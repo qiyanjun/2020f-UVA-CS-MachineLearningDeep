@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SVM
-lecture:  L11-SVM-basic
+lecture:  S3-SVM-basic
 lectureVersion: 
 extraContent: L11-LibSVMGuide 
 lectureVersion: next

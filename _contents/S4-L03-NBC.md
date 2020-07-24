@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NaiveBC on Text 
-lecture: L17c-NBCtext 
+lecture: S5-NBCtext 
 lectureVersion: next
 video: <a href="https://youtu.be/xrz9YTG7Ag8"> video</a> 
 extraContent: L20-review  

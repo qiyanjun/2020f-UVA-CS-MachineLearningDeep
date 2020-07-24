@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick survey of recent deep learning
-lecture: L15c-deepReview 
+lecture: S2-deepSurvey 
 lectureVersion: next
 extraContent: L16-PCA 
 video: <a href="https://youtu.be/gfvY30w4MoY"> video</a> 

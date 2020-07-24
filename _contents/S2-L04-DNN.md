@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CNN 
-lecture: L15b-NNRecap
+lecture: S2-CovNN
 lectureVersion: next
 video: <a href="https://youtu.be/fj12wdwEoZk"> video</a> 
 extraContent:  L16-PCA

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ProbReview + MLE  
-lecture:  L12-ProbReview
+lecture:  S2-ProbReview-MLE
 lectureVersion: next
 extraContent: L13-MLE 
 video: <a href="https://youtu.be/oOEsLivSVkc"> video</a> 

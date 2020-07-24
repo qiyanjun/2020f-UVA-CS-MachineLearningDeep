@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gaussian BC 
-lecture: L17b-GenerDiscr
+lecture: S4-GenerDiscr
 lectureVersion: next
 extraContent: L17c-NBCtext 
 video: <a href="https://youtu.be/nRr5bxGCMNk"> video</a> 

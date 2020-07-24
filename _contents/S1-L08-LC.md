@@ -1,7 +1,7 @@
 ---
 layout: post
 title: supervised classification 
-lecture: L08-SCbasic
+lecture: S1-Classify
 lectureVersion: next
 extraContent: 
 video: <a href="https://youtu.be/yeMAkQabCkc"> video</a> 

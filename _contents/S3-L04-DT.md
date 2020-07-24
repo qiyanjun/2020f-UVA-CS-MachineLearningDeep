@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DecisionTree and Bagging
-lecture: L18-DT
+lecture: S3-DecisionTree
 lectureVersion: next
 extraContent: L22-review  
 video: <a href="https://youtu.be/SBMNTfLNWyY"> video</a> 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SVM, Kernel
-lecture:  L11b-SVM-kerneltrick
+lecture:  S3-SVM-kernel
 lectureVersion: next
 extraContent:  L11-LibSVMGuide
 notes: <a href="https://www.cs.cmu.edu/~epxing/Class/10701/slides/lecture16-VC.pdf"> VC Theory </a>

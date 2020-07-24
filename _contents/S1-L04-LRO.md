@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optimization for LR
-lecture: L04-lropt
+lecture: S1-lr-opt
 lectureVersion: next
 extraContent:
 notes: <a href="https://arxiv.org/abs/1609.04747"> Useful SGD </a>

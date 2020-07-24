@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KNN and Theory
-lecture: L09-KNN
+lecture: S1-kNearestN
 lectureVersion: next
 extraContent: L09-KNN-extra
 notes: <a href="http://www.cs.cmu.edu/~wcohen/10-601/bias-variance.pdf"> Useful BiasVar </a>

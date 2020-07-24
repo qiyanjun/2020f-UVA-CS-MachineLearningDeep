@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Logistic and NN
-lecture: L14-Logistic
+lecture: S2-LogisticReg
 lectureVersion: next
 extraContent:  L14extra-Logistic
 video: <a href="https://youtu.be/7h_Y5IX8ksg"> video</a> 

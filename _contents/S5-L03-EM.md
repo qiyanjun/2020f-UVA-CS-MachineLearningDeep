@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clustering GMM
-lecture: L19c-clustering3-GMM
+lecture: S5-clustering-GMM
 lectureVersion: next
 extraContent: L19d-EMextra-EM
 video: <a href="https://youtu.be/taykGRSIoi0"> video</a> 

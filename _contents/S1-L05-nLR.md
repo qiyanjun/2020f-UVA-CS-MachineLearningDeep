@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nonlinear Regression
-lecture: L05-lrExtend-SelectModel
+lecture: S1-lrExtend-SelectModel
 lectureVersion: next
 extraContent: L05E-nonparametricR
 notes: <a href="https://stat.ethz.ch/~stahel/courses/cheming/nlreg10E.pdf"> NonLinear </a> + <a href="http://scikit-learn.org/stable/model_selection.html"> API </a> + <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">ELS Ch5 </a>

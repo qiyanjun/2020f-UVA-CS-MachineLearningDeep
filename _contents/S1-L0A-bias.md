@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bias Variance Tradeoff
-lecture: L10-biasVariance
+lecture: S1-biasVariance
 extraContent: L10-Tibshirani-modelbasics 
 lectureVersion: next
 notes: <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">ESL Ch7</a>

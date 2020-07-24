@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clustering Partition
-lecture: L19b-clustering2-kMeans
+lecture: S5-clustering-kMeans
 lectureVersion: next
 extraContent: L19d-EMextra-EM
 video: <a href="https://youtu.be/taykGRSIoi0"> video</a> 
