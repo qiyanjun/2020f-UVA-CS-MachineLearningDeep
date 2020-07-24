@@ -33,10 +33,10 @@ desc: 'Website for 2020-Fall-UVA-CS Machine Learning, Math Foundation and Good U
   <th>Date</th>
   <th>Week</th>
   <th>Qz</th>
-  <th>Title</th>
-  <th>Lecture</th>
-  <th>DataFocus</th>
-  <th>ToRead</th>
+  <th>Title / Post</th>
+  <th>Lecture PDF/th>
+  <th>Data Focus</th>
+  <th>ToRead PDF</th>
   <th>Video</th>
   <th>Extra Read</th>
   </b>
@@ -49,43 +49,51 @@ desc: 'Website for 2020-Fall-UVA-CS Machine Learning, Math Foundation and Good U
 {% assign currentTag = 0 %}
 {% assign sorted = site.contents %}
 
-{% assign ddates = "0825|Ext|0827|0901|0903|0908|Ext|0910|0915|0917|0922|0924|Ext|0929|1001|1006|1008|1013|1015|1020|Ext|1022|1027|1029|1103|1105|1110|1112|1117|1119|Ext|1124" | split: "|" %}
+{% assign ddates = "|0825|0827|0901|0903|0908|0910|0915|0917|0922|0924|0929|1001|1006|1008|1015|1020|1022|1027|1029|1103|1105|1110|1112|1117|1119|1124" | split: "|" %}
 
-{% assign dweeks = "W1|Ext|W1|W2|W2|W3|Ext|W3|W4|W4|W5|W5|Ext|W6|W6|W7|W7|Ext|W8|W9|Ext|W9|W10|W10|W11|W11|W12|W12|W13|W13|Ext|W14|W14|W15" | split: "|" %}
+{% assign dweeks = "|W1|W1|W2|W2|W3|W3|W4|W4|W5|W5|W6|W6|W7|W7|W8|W9|W9|W10|W10|W11|W11|W12|W12|W13|W13|W14|W14" | split: "|" %}
 
-{% assign Qdates = "|Q0|||Q1||Q2|| |Q3| |Q4| | |Q5|| Q6|| | Q7|| |Q8||Q9||Q10||Q11||Q12||Q?|" | split: "|" %}
+{% assign Qdates = "|Q0||Q1||Q2||Q3||Q4||Q5||Q6||Q7|| Q8||Q9||Q10||Q11||Q12||Q?|" | split: "|" %}
 
 {% for post in sorted %}
 
+
+
 {% if currentTag == 0 %}
   {% unless post.lectureVersion contains 'current'  %}
-    <tr><td align="center" bgcolor="#bafdfb"  colspan="9"><font color="#990000"><b>WE ARE HERE</b></font></td></tr>
+    <tr><td align="center" bgcolor="#fff48f"  colspan="9">
+      <font color="#990000"><b>WE ARE HERE</b></font></td>
+    </tr>
     {% assign currentTag=currentTag | plus:1 %}
   {% endunless %}
 {% endif %}
 
-
-{% if  dweeks[counter] contains "Ext" or ddates[counter] contains "Ext"  %}
-  <tr bgcolor="#dcdcdcdc" >
-  <td bgcolor="#dcdcdcdc">{{ ddates[counter] }} </td>
-  <td bgcolor="#dcdcdcdc">{{ dweeks[counter] }}</td>
+{% if  post.title contains "Section" %}
+  <tr><td align="center" bgcolor="#bafdfb"  colspan="9">
+      <font color="#990000"><b>{{ post.title }}</b></font></td>
+    </tr>
 {% else %}
+
+{% if  post.extra  %}
+  <tr bgcolor="#cccdc2" >
+  <td >Extra </td>
+  <td >Extra </td>
+  <td></td>
+{% else %}
+  {% assign counter=counter | plus:1 %}
   <tr >
   <td>{{ ddates[counter] }} </td>
   <td>{{ dweeks[counter] }}</td>
+
+  {% if  Qdates[counter]  contains 'Q'  %}
+    <td>{{ Qdates[counter] }}</td>
+    {% assign Qcounter=Qcounter | plus:1 %}
+  {% else %}
+    <td></td>
+  {% endif %}
 {% endif %}
 
-
-{% assign counter=counter | plus:1 %}
-
-{% if  Qdates[counter]  contains 'Q'  %}
-  <td>{{ Qdates[counter] }}</td>
-  {% assign Qcounter=Qcounter | plus:1 %}
-{% else %}
-  <td></td>
-{% endif %}
-
-<td>{{ post.title }}</td>
+<td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
 
 {% if post.lecture %}
 <td><a href="{{ site.baseurl }}/Lectures/{{ post.lecture }}.pdf"> Slides: {{ post.lecture }}</a></td>
@@ -107,6 +115,8 @@ desc: 'Website for 2020-Fall-UVA-CS Machine Learning, Math Foundation and Good U
 <td>{{ post.notes }} </td>
 
 </tr>
+
+{% endif %}
 
 {% endfor %}
 
