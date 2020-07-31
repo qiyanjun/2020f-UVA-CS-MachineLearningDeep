@@ -6,7 +6,7 @@ lectureVersion: next
 extraContent: L16-PCA 
 video: <a href="https://youtu.be/uG0jg8hC-lI"> video</a> 
 notes: 
-categories: tabular
+categories: 
 tags:
 - 3Classification
 - Generative

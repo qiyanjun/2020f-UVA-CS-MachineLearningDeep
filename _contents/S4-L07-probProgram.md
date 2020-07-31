@@ -1,11 +1,12 @@
 ---
 layout: post
-title: prob programming
+title: probabilistic programming
 lecture: S2-prob-program
 lectureVersion: next
 extraContent:   
 notes: 
 video:  
+extra: true
 categories: 
 tags:
 - Optimization
