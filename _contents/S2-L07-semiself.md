@@ -6,6 +6,7 @@ lectureVersion: next
 extraContent:   
 notes: 
 video:  
+extra: true
 categories: 
 tags:
 - semi-supervised

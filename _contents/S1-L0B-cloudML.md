@@ -1,7 +1,7 @@
 ---
 layout: post
 title: machine leanring in the cloud 
-lecture: S2-cloud
+lecture: S1-cloudML
 lectureVersion: Recitations
 extraContent:   
 notes: Invited Speaker
