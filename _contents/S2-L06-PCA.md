@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PCA
+title: PCA, TSNE, UMAP
 lecture: S2-PCA-VAE 
 lectureVersion: Extra Self Study
 extraContent: L07-feaSelc
