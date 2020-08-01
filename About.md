@@ -15,7 +15,7 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 ### General Description:
 
-+ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning (especially modern deep learning), unsupervised learning, learning theory, and RL.  (My version will be taught and organized independently from the other session). This Fall, I will add many more examples of the real-world applications from medicine.
++ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning (especially modern deep learning), unsupervised learning, learning theory, and RL.  (My version will be taught and organized independently from the other session). This Fall, I will focus on deep learning and add many examples of the real-world applications fighting against COVID19.
 
 + Assignments include multiple short programming and writing assignments for hands-on experiments of various learning algorithms, multiple in-class quizzes, and a final project.
 
