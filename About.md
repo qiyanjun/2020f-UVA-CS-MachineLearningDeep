@@ -15,13 +15,13 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 ### General Description:
 
-+ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning, unsupervised learning and learning theory.
++ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning (especially modern deep learning), unsupervised learning, learning theory, and RL.  (My version will be taught and organized independently from the other session). This Fall, I will add many more examples of the real-world applications from medicine.
 
 + Assignments include multiple short programming and writing assignments for hands-on experiments of various learning algorithms, multiple in-class quizzes, and a final project.
 
 + Objective of this course: 
   + Goal: To help students get capable in building machine learning tools (not just a tool user!!!) 
-  + Key Results: (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to re-produce one cutting-edge machine learning paper. 
+  + Key Results: (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to produce one machine learning project on cutting-edge data applications with health or social impacts. 
 
 
 ### Prerequisite:
@@ -76,8 +76,8 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 ### Course Grading Policy
   The grade will be calculated as follows:
-+ Assignments (60%, with six assignments)
-+ In-class quizzes (20%): each takes 5 ~ 10 mins in class;  
++ Assignments (50%, with five assignments)
++ Class quizzes (30%): each takes 10 mins via google form;  
 + Final project (20%):  
 
 
