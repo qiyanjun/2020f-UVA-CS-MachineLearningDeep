@@ -1,4 +1,4 @@
 ---
 layout: post
-title:  Section 1 - Basics & On Tabular
+title:  Section 1 - Basics & On Tabular Input Type
 ---

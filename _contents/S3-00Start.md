@@ -1,4 +1,4 @@
 ---
 layout: post
-title:  Section 3 - More Advanced on Tabular Data
+title:  Section 3 - More Advanced Supervsied on Tabular Type
 ---

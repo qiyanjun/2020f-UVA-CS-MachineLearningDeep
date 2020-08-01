@@ -6,7 +6,7 @@ lectureVersion: next
 video: <a href="https://youtu.be/xrz9YTG7Ag8"> video</a> 
 extraContent:   
 notes: 
-categories: 1d (language)
+categories: 1D (Text)
 tags:
 - 3Classification
 ---
