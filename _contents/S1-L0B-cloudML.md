@@ -5,7 +5,7 @@ lecture: S1-cloudML
 lectureVersion: Recitations
 extraContent:   
 notes: Invited Speaker
-video:  
+video: <a href="https://access.awscloud.com/initiate-elearning-series"> video</a>   
 categories: library
 platform: true
 tags:
