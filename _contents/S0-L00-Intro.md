@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-lecture: S1-Intro
+lecture: S0-Intro
 lectureVersion: next
 extraContent: Q0
 notes: <a href="http://cs231n.github.io/python-numpy-tutorial/"> Numpy Tutorial </a>

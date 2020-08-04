@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optimization for LR
-lecture: S1-lr-opt
+lecture: S1-LR optimization
 lectureVersion: next
 extraContent:
 notes: <a href="https://arxiv.org/abs/1609.04747"> Useful SGD </a>

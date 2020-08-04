@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Lasso and Elastic Net
-lecture: S1-lr-sparse
+lecture: S1-lr Sparse
 lectureVersion: next
-extraContent: L06extra-lrRegOpm
+extraContent: S1-Extra-lrReguOpm
 notes: <a href="https://web.stanford.edu/~hastie/TALKS/enet_talk.pdf"> Elastic paper </a>  
 video: <a href="https://youtu.be/3XSfwfvc9N8"> video</a>
 categories: tabular
