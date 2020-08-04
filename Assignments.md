@@ -6,7 +6,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
 
 <hr>
 
-### Five assignments (50%)
+### Five assignments (60%)
 + Post in collab 
 + You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
 [instructors-20f-cs-6316@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu).
@@ -43,29 +43,22 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
 <tr>
   <td>HW3</td>
   <td>Out in Collab</td>
-  <td>W9</td>
+  <td>W8</td>
   <td>W11</td>
   <td>Deep NN to implement, SVM to compete </td>
 </tr>
 <tr>
   <td>HW4</td>
   <td>Out in Collab</td>
-  <td>W7</td>
-  <td>W9</td>
-  <td> NBC and Deep Text to implement and compete</td>
-</tr>
-<tr>
-  <td>HW5</td>
-  <td>Out in Collab</td>
-  <td>W10</td>
   <td>W12</td>
-  <td>k-Means, and Unsupervised to implement</td>
+  <td>W14</td>
+  <td> NBC and Deep Text to implement and compete</td>
 </tr>
 </table>
 
 <hr>
 
-### About ten in-class Quizzess (30%)
+### About ten in-class Quizzess (20%)
 + Quizz dates will show on the schedule page
 + Mostly quizzes will be on Mondays
 + Each quizz includes contents we cover in the previous week
