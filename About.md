@@ -30,7 +30,7 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 + Required courses as prerequisites: Calculus, Matrix algebra,  Probability and  Algorithm. Statistics is recommended.
 
 
-+ If you are unsure if your math background, please check out the following two review slides I made: 
++ If you are unsure of your math background, please check out the following two review lectures I made: 
 
   - [Basic prerequisite on Algebra and Calculus](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//contents/S1-L01-Basics/)
   - [Basic prerequisite on probability](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//Lectures/S2-ProbReview.pdf)
