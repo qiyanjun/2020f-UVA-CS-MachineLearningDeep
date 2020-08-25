@@ -11,7 +11,7 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 ### Course Basics:
 
 + TuTh 3:30PM - 4:45PM 
-+ TBD
++ Via Zoom / Link Shared via Collab maillist
 
 ### General Description:
 
@@ -64,16 +64,19 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
   - Rice Hall 503, 243-3089;  
 
 + ##### TAs: 
-   + [TBD](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu): 
+   + [2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu): 
+   + Jack Lanchantin
+   + Zhe Wang
 
 
-+ #### TA office hours in Rice  
-- TBD
++ #### TA office hours  
+  - Via Zoom / Link Shared via Collab maillist
+  - Tue / Thur 5pm-6pm
 
 ### Text Book
 + No required text book.
 + Course slides and handouts are self-contained.
-
++ Multiple reference books are shared below
 
 ### Course Websites
 
@@ -87,8 +90,8 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 ### Course Grading Policy
   The grade will be calculated as follows:
 + Assignments (50%, with five assignments)
-+ Class quizzes (30%): each takes 10 mins via google form;  
-+ Final project (20%):  
++ Class quizzes (20%): each takes 10 mins via google form;  
++ Final project (30%):  
 
 
 ### Assignment due dates, Lateness and Extensions

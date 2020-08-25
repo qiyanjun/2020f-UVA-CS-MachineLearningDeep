@@ -6,16 +6,16 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
 
 <hr>
 
-### Five assignments (60%)
+### Five assignments (50%)
 + Post in collab 
 + You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
-[instructors-20f-cs-6316@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu).
+[2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu).
 
 + Please submit all extension requests, questions, and late assignments  to <br>
-[instructors-20f-cs-6316@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu).
+[2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu).
  
 
-<table id="datatab3" summary="Six Assignments" border="1">
+<table id="datatab3" summary="Five Assignments" border="1">
 <tr>
  <h3><b>
   <th>Index</th>
@@ -38,27 +38,34 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
   <td>Out in Collab</td>
   <td>W4</td>
   <td>W6</td>
-  <td>Polynomial, Ridge, kNN, Model Selection to implement</td>
+  <td>Polynomial, Ridge, Model Selection to implement</td>
 </tr>
 <tr>
   <td>HW3</td>
   <td>Out in Collab</td>
-  <td>W8</td>
-  <td>W11</td>
+  <td>W6</td>
+  <td>W9</td>
   <td>Deep NN to implement, SVM to compete </td>
 </tr>
 <tr>
   <td>HW4</td>
   <td>Out in Collab</td>
+  <td>W9</td>
+  <td>W11</td>
+  <td> kNN to implement, SVM, and Trees to compare, Model</td>
+</tr>
+<tr>
+  <td>HW5</td>
+  <td>Out in Collab</td>
   <td>W12</td>
   <td>W14</td>
-  <td> NBC and Deep Text to implement and compete</td>
+  <td>NBC and Deep Text to implement and compete</td>
 </tr>
 </table>
 
 <hr>
 
-### About ten in-class Quizzess (20%)
+### About in-class Quizzess (20%)
 + Quizz dates will show on the schedule page
 + Mostly quizzes will be on Mondays
 + Each quizz includes contents we cover in the previous week
@@ -85,15 +92,16 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
 
 
 
-### About Final Project (20%)
+### About Final Project (30%)
 + Each team includes up to four students 
 + To understand, reproduce and present one cutting-edge machine learning paper
 
 + Each team is required to submit three documents for their project
   - 5 Points: A powerpoint file (Due in Collab on Oct 20th) summarizing the paper via a template
-  - 3 Points: The updated powerpoint file (Due in Collab on Nov 30th) summarizing the paper via a template and describing the results you reproduce
-  - 7 Points: A iPython Jupyter notebook (Due in Collab on Dec 7th) to present the code, data visualization, and to obtain the results and analysis through step by step code cell run. Your team will go through and show the notebook at the final project presentation meeting to the instructors. 
+  - 5 Points: The updated powerpoint file (Due in Collab on Nov 30th) summarizing the paper via a template and describing the results you reproduce
+  - 5 Points: A iPython Jupyter notebook (Due in Collab on Dec 7th) to present the code, data visualization, and to obtain the results and analysis through step by step code cell run. Your team will go through and show the notebook at the final project presentation meeting to the instructors. 
   - 5 Points: A formal presentation to the instructors (in the last week of the semester), presenting your slides and your iPython notebook. 
+  - 10 Points: A formal report to the instructors (in the last week of the semester), describing your projects: motivation, method, results and insights. 
 
 + For the iPython Jupyter notebook your team needs to make: 
   - A Jupyter iPython template is shared to help you structure the project code. 
@@ -104,7 +112,13 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
 + Please discuss with your fellow classmates, forming potential teams ASAP. 
 + We allow self-selected papers. 
 + Please share questions and concerns to  to <br>
-[instructors-20f-cs-6316@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu). 
+[2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu). 
+
++ You can select a project from three potential types: 
+  - a. To produce one machine learning project on cutting-edge data applications with health or social impacts
+  - b. Survey and benchmark multiple pytorch library with a shared goal
+  - c. To Reproduce a cutting-edge machine learning paper, for instance from Top Venues' most cited 2009 papers 
+   
 
 + Here is the potential paper list (TBD): 
 
