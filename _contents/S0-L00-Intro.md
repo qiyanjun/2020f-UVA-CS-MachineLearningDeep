@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 lecture: S0-Intro
 lectureVersion: current
-extraContent: Q0
+extraContent: 
 notes: <a href="http://cs231n.github.io/python-numpy-tutorial/"> Numpy Tutorial </a>
 video: <a href="https://www.youtube.com/watch?v=R19W_AzoPeY"> video</a>
 tags:
