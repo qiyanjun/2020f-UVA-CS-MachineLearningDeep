@@ -21,7 +21,7 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 + Objective of this course: 
   + Goal: To help students get capable in building machine learning tools (not just a tool user!!!) 
-  + Key Results: (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to produce one machine learning project on cutting-edge data applications with health or social impacts. 
+  + Key Results: (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to produce one machine learning project on cutting-edge data applications with health or social impacts or with cutting-edge engineering impacts on deep learning benchmarking libraries. 
 
 
 ### Prerequisite:
