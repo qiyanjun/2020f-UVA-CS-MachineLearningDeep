@@ -32,8 +32,8 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 + If you are unsure of your math background, please check out the following two review lectures I made: 
 
-  - [Basic prerequisite on Algebra and Calculus](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//contents/S1-L01-Basics/)
-  - [Basic prerequisite on probability](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//Lectures/S2-ProbReview.pdf)
+  - [Basic prerequisite on Algebra and Calculus](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//contents/S0-L01-Basics/)
+  - [Basic prerequisite on probability](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//contents/S0-L02-prob/)
 
   -  If you are comfortable with the contents in above lectures, you will be fine for our class.
 
