@@ -53,13 +53,13 @@ Click on a tag to see relevant list of lectures.
   {% endif %}
 
   {% if post.lecture %}
-  <td><a href="{{ site.baseurl }}/Lectures/{{ post.lecture }}.pdf">Slide</a></td>
+  <td><a href="{{ site.baseurl }}/Lectures/{{ post.lecture }}.pdf"  target="_blank">Slide</a></td>
   {% else %}
   <td></td>
   {% endif %}
 
   {% if post.extraContent %}
-  <td><a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"> PDF </a></td>
+  <td><a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"  target="_blank"> PDF </a></td>
   {% else %}
   <td></td>
   {% endif %}

@@ -22,13 +22,13 @@ desc: "2020 Fall UVa CS 6316 Machine Learning Lectures Organized by Given Order"
  
  <ul>
   {% if post.lecture %}
-  <li><a href="{{ site.baseurl }}/Lectures/{{ post.lecture }}.pdf">Lecture: 
+  <li><a href="{{ site.baseurl }}/Lectures/{{ post.lecture }}.pdf"  target="_blank">Lecture: 
   {{ post.lecture }}</a></li>
   <li>Version: {{ post.lectureVersion }}</li>
   {% endif %}
 
   {% if post.extraContent %}
-  <li>More to Read: <a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf">   {{ post.extraContent }} </a></li>
+  <li>More to Read: <a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"  target="_blank">   {{ post.extraContent }} </a></li>
   {% endif %}
 
   {% if post.notes %}
