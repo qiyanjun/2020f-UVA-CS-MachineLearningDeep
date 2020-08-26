@@ -41,8 +41,6 @@ Each session will include multiple small modules \-\-\- each about 20mins \(each
 
 We focus on learning fundamental principles\, algorithm design and deep learning methods and applications\.
 
-Yanjun Qi / UVA CS
-
 # Objective
 
 * To help students get able to build simple machine learning tools
@@ -51,8 +49,6 @@ Yanjun Qi / UVA CS
   * Able to build a few simple machine learning methods from scratch
   * Able to understand a few complex machine learning methods at the source code level
   * To re\-produce / or invent one cutting\-edge machine learning application / algorithm for GOOD USE
-
-Dr\. Yanjun Qi / UVA CS
 
 # Course Staff
 
@@ -63,8 +59,6 @@ Dr\. Yanjun Qi / UVA CS
   * My research is about machine learning
 * TA and Office Hour information @CourseWeb
 
-Yanjun Qi / UVA CS
-
 # Course Material
 
 * Text books for this class is:
@@ -74,8 +68,6 @@ Yanjun Qi / UVA CS
 * Your UVACollabfor Assignments and Project
 * Google Forms for Quizzes
 
-Yanjun Qi / UVA CS
-
 # Course Background Needed
 
 * __Background Needed__
@@ -84,15 +76,11 @@ Yanjun Qi / UVA CS
   * Statistics is recommended\.
   * <span style="color:#FF0000">Python</span> is required for all programming assignments
 
-Yanjun Qi / UVA CS
-
 # Assignments
 
 Assignments \(50%\, with five assignments\)
 
 See policy inhttps://qiyanjun\.github\.io/2020f\-UVA\-CS\-MachineLearningDeep//About/
-
-Yanjun Qi / UVA CS
 
 # Quiz
 
@@ -102,8 +90,6 @@ Yanjun Qi / UVA CS
   * Within Our Zoom Synchronous sessions
   * Will be close book \(please follow honor code\!\)
 * See policy inhttps://qiyanjun\.github\.io/2020f\-UVA\-CS\-MachineLearningDeep//About/
-
-Yanjun Qi / UVA CS
 
 # Course Project
 
@@ -116,8 +102,6 @@ Final project \(30%\):  Three potential types:
 \- c\. To Reproduce a cutting\-edge machine learning paper\, for instance from Top Venues' most cited recent papers
 
 See policy inhttps://qiyanjun\.github\.io/2020f\-UVA\-CS\-MachineLearningDeep//About/
-
-Yanjun Qi / UVA CS
 
 # Thank you
 
@@ -178,15 +162,17 @@ History \( on a functional line\)
 
 2017
 
-Rule / Knowledge based
+__Classic ML like SVM\, RF\, BN__
 
-__Classic ML like SVM__
+Rule / Knowledge based
 
 ImageNet / Deep Learning Breakthroughs
 
 CNN / RNN invented
 
 Start / NN popular
+
+<span style="color:#202122">Auther</span>  <span style="color:#202122">Samuel popularized the term "</span>  <span style="color:#0B0080">machine learning</span>  <span style="color:#202122">" in 1959\.</span>  <span style="color:#0B0080">\[4\]</span>  <span style="color:#202122">The Samuel Checkers\-playing Program was among the world's first successful self\-learning programs;</span>
 
 # Early History
 
@@ -212,11 +198,13 @@ __1990s:__ Convolutional neural network \(CNN\) and Recurrent neural network \(R
 
 Y\.LeCun\, L\.Bottou\, Y\.Bengio\, and P\. Haffner\, Gradient\-based learning applied to document recognition\, Proceedings of the IEEE 86\(11\): 2278–2324\, 1998\.
 
+__ImageNet__  __Competition:__
+
+\[ <span style="color:#FF6600">Training on 1\.2 million</span>  <span style="color:#0000CC">images \[X\]</span>  <span style="color:#FF6600">vs\. 1000 different</span>  <span style="color:#0000CC">word labels \[Y\]</span> \]
+
 Adapt from From NIPS 2017 DL Trend Tutorial
 
 # Deep Learning is Changing the World
-
-Yanjun Qi / UVA CS
 
 # Reason of Recent Deep Learning breakthroughs:
 
@@ -236,13 +224,9 @@ Genomics data:
 
 Medical Imaging data:
 
-Yanjun Qi / UVA CS
-
 # Reason: Advanced Computer Architecture that fits DNNs
 
 http://www\.nvidia\.com/content/events/geoInt2015/LBrown\_DL\.pdf
-
-Yanjun Qi / UVA CS
 
 # Reason: Data-Driven Machine Learning Algorithms and Platforms
 
@@ -319,8 +303,6 @@ SRC: Pedro Domingos ACM Webinar Nov 2015http://learning\.acm\.org/multimedia\.cf
   * https://www\.goodreads\.com/book/show/31138556\-homo\-deus
   * “Homo Deus explores the projects\, dreams and nightmares that will shape the twenty\-first century—from overcoming death to creating artificial life\. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers? This is the next stage of evolution\. This is Homo Deus\.””
 
-Dr\. Yanjun Qi / UVA CS
-
 # Thank you
 
 # Roadmap
@@ -333,8 +315,6 @@ History and Now
 
 # My Teaching Guide: Bloom’s Taxonomy on Cognitive Learning
 
-Yanjun Qi / UVA CS
-
 # BASICS OF MACHINE LEARNING
 
 “The goal of machine learning is to build computer systems that can <span style="color:#0000FF">learn and adapt from their experience\.</span> ”– TomDietterich
@@ -343,8 +323,6 @@ Yanjun Qi / UVA CS
 
 Available examples are described with properties <span style="color:#0000CC">\(data points in feature space X\)</span>
 
-Yanjun Qi / UVA CS
-
 _Traditional Programming_
 
 _Machine Learning \(training phase\)_
@@ -352,8 +330,6 @@ _Machine Learning \(training phase\)_
 Program
 
 / Model  f\(\)
-
-Dr\. Yanjun Qi / UVA CS
 
 # e.g. SUPERVISED LEARNING
 
@@ -367,8 +343,6 @@ So that the <span style="color:#0000FF">difference</span> between <span style="c
 
 <span style="color:#FF0000">e\.g\.</span>  <span style="color:#FF0000">Is this a positive product review ?</span>
 
-Yanjun Qi / UVA CS
-
 <span style="color:#FF0000">Input X : e\.g\. a piece of English text</span>
 
 # SUPERVISED Linear Binary Classifier
@@ -378,8 +352,6 @@ Now let us check out a <span style="color:#3366FF">VERY SIMPLE</span> case of
 f\(x\, <span style="color:#00CC00">w\,b</span> \) = sign\( <span style="color:#00CC00">w</span>  <span style="color:#00CC00">T</span> x\+ <span style="color:#00CC00">b</span> \)
 
 <span style="color:#0000FF">e\.g\.: Binary</span> y <span style="color:#0000FF">/ Linear</span> f <span style="color:#0000FF">/ X as R</span>  <span style="color:#0000FF">2</span>
-
-Yanjun Qi / UVA CS
 
 <span style="color:#D800D8">SUPERVISED</span> Linear Binary Classifier
 
@@ -394,8 +366,6 @@ denotes \+1 point
 denotes \-1 point
 
 Courtesy slide from Prof\. Andrew Moore’s tutorial
-
-Yanjun Qi / UVA CS
 
 <span style="color:#D800D8">SUPERVISED</span> Linear Binary Classifier
 
@@ -413,8 +383,6 @@ denotes future points
 
 Courtesy slide from Prof\. Andrew Moore’s tutorial
 
-Yanjun Qi / UVA CS
-
 # Two Modes of Machine Learning
 
 Predicted
@@ -422,8 +390,6 @@ Predicted
 Output
 
 Consists of <span style="color:#FF0000"> __input__ </span> \- <span style="color:#0000FF"> __output__ </span> pairs
-
-Dr\. Yanjun Qi / UVA CS
 
 _Traditional Programming_
 
@@ -433,8 +399,6 @@ Program
 
 / Model  f\(\)
 
-Dr\. Yanjun Qi / UVA CS
-
 * <span style="color:#0000CC">Training</span> \(i\.e\. learning parameters <span style="color:#00CC00">w\,b</span> \)
   * <span style="color:#FF0000">Training set</span>  <span style="color:#0D0D0D">includes</span>
     * <span style="color:#0D0D0D">available examples</span>  <span style="color:#FF0000">x</span>  <span style="color:#FF0000">1</span>  <span style="color:#FF0000">\,…\,</span>  <span style="color:#FF0000">x</span>  <span style="color:#FF0000">L</span>
@@ -442,22 +406,16 @@ Dr\. Yanjun Qi / UVA CS
   * Find <span style="color:#FF0000">\(</span>  <span style="color:#00CC00">w\,b</span>  <span style="color:#FF0000">\) by minimizing loss / Cost</span> function L\(\)
     * \(i\.e\. difference betweeny and f\(x\) on available examples <span style="color:#FF0000">in training set</span> \)
 
-Yanjun Qi / UVA CS
-
 * <span style="color:#0000CC">Loss function</span>
   * e\.g\. hinge loss for binary classification task
 * <span style="color:#0000CC">Regularization</span>
   * E\.g\. additional information added
   * on loss function to control f
 
-Yanjun Qi / UVA CS
-
 * <span style="color:#0000CC">Testing</span> \(i\.e\. evaluating performance on“ <span style="color:#C700C7">future</span> ”points\)
   * Difference between true <span style="color:#FF0000">y</span>  <span style="color:#FF0000">?</span> and the <span style="color:#FF0000">predicted</span>  <span style="color:#FF0000">f\(x</span>  <span style="color:#FF0000">?</span>  <span style="color:#FF0000">\)</span> on a set of  testing examples\(i\.e\. <span style="color:#FF0000">testing set</span> \)
   * Key:example <span style="color:#FF0000">x</span>  <span style="color:#FF0000">?</span> not in the training set
 * <span style="color:#0000CC">Generalisation</span> : learn function / hypothesis from <span style="color:#DE2FFF">past data</span> in order to “explain”\, “predict”\, “model” or “control” <span style="color:#DE2FFF">new</span> data examples
-
-Yanjun Qi / UVA CS
 
 # A Typical Machine Learning Application’s Pipeline
 
@@ -477,8 +435,6 @@ e\.g\. Data Cleaning
 
 <span style="color:#FFFFFF">Label Collection</span>
 
-Dr\. Yanjun Qi / UVA CS
-
 # When to use Machine Learning (Adapt to / learn from data) ?
 
   * 1\. <span style="color:#0000EB">Extract knowledge</span> from data
@@ -490,8 +446,6 @@ Dr\. Yanjun Qi / UVA CS
       * New knowledge is constantly being discovered\.
       * Rule or human encoding\-based system is difficult to continuously re\-design“by hand”\.
 
-Yanjun Qi / UVA CS
-
 _Machine Learning in a Nutshell_
 
 ML grew out of work in AI
@@ -503,18 +457,12 @@ Aiming to generalize to unseen data
 Search/Optimization
 
 Models\, Parameters
-
-Dr\. Yanjun Qi / UVA CS
 
 # What we have covered
 
-Dr\. Yanjun Qi / UVA CS
-
 # What we will cover
 
-Dr\. Yanjun Qi / UVA CS
-
-Yanjun Qi / UVA CS
+# My Teaching Guide: Bloom’s Taxonomy on Cognitive Learning
 
 _Machine Learning in a Nutshell_
 
@@ -527,8 +475,6 @@ Aiming to generalize to unseen data
 Search/Optimization
 
 Models\, Parameters
-
-Dr\. Yanjun Qi / UVA CS
 
 # A Dataset
 
@@ -538,17 +484,11 @@ __Features__  _/attributes/dimensions/independent variables/covariates/predictor
 
 __Target__  _/outcome/response/label/dependent variable_ : special column to be predicted <span style="color:#0000FF">\[ last column \]</span>
 
-Dr\. Yanjun Qi /
-
 # Main Types of Columns
 
 <span style="color:#0000FF"> _Continuous_ </span> : a real number\, for example\, weight
 
 <span style="color:#0000FF"> _Discrete_ </span>  <span style="color:#0000FF">:</span> a symbol\, like “Good” or “Bad”
-
-Dr\. Yanjun Qi /
-
-Dr\. Yanjun Qi / UVA CS
 
 _Machine Learning in a Nutshell_
 
@@ -561,8 +501,6 @@ Aiming to generalize to unseen data
 Search/Optimization
 
 Models\, Parameters
-
-Dr\. Yanjun Qi / UVA CS
 
 # e.g. SUPERVISED Classification
 
@@ -570,15 +508,11 @@ Training dataset consists of <span style="color:#FF0000">input</span> \- <span s
 
 e\.g\. target Y can be a <span style="color:#0000FF">discrete</span> target variable
 
-Dr\. Yanjun Qi /
-
 # e.g. SUPERVISED Regression
 
 Training dataset consists of <span style="color:#FF0000">input</span> \- <span style="color:#0000FF">output</span> pairs
 
 e\.g\. target Y can be a <span style="color:#0000FF">continuous</span> target variable
-
-Dr\. Yanjun Qi /
 
 _Machine Learning in a Nutshell_
 
@@ -591,8 +525,6 @@ Aiming to generalize to unseen data
 Search/Optimization
 
 Models\, Parameters
-
-Dr\. Yanjun Qi / UVA CS
 
 * <span style="color:#0000CC">Training</span> \(i\.e\. learning parameters <span style="color:#00CC00">w\,b</span> \)
   * <span style="color:#FF0000">Training set</span>  <span style="color:#0D0D0D">includes</span>
@@ -601,15 +533,11 @@ Dr\. Yanjun Qi / UVA CS
   * Find <span style="color:#FF0000">\(</span>  <span style="color:#00CC00">w\,b</span>  <span style="color:#FF0000">\) by minimizing loss</span>
     * \(i\.e\. difference betweeny and f\(x\) on available examples <span style="color:#FF0000">in training set</span> \)
 
-Yanjun Qi / UVA CS
-
 * <span style="color:#0000CC">Loss function</span>
   * e\.g\. hinge loss for binary classification task
 * <span style="color:#0000CC">Regularization</span>
   * E\.g\. additional information added
   * on loss function to control f
-
-Yanjun Qi / UVA CS
 
 _Machine Learning in a Nutshell_
 
@@ -623,15 +551,11 @@ Search/Optimization
 
 Models\, Parameter\, Metric
 
-Dr\. Yanjun Qi / UVA CS
-
 # How to know the program works well: Measure Prediction Accuracy on Test Data
 
 Training dataset consists of <span style="color:#FF0000">input</span> \- <span style="color:#0000FF">output</span> pairs
 
 <span style="color:#FF0000">Measure Loss on pair</span>  <span style="color:#FF0000"> Error</span>  <span style="color:#FF0000">\( f\(x</span>  <span style="color:#FF0000">?</span>  <span style="color:#FF0000">\)\,  y</span>  <span style="color:#FF0000">?</span>  <span style="color:#FF0000">\)</span>
-
-Dr\. Yanjun Qi / UVA CS
 
 # More Metrics: e.g., ML and AI  Research @ UVA CS
 
@@ -661,8 +585,6 @@ __Models\, Parameters\, Metrics__
 
 __Many metric to measure classification on future points__
 
-Dr\. Yanjun Qi / UVA CS
-
 <span style="color:#D800D8">SUPERVISED</span> Linear Binary Classifier
 
 <span style="color:#FF0000">“Predict Class = \+1” zone</span>
@@ -679,8 +601,6 @@ denotes future points
 
 Courtesy slide from Prof\. Andrew Moore’s tutorial
 
-Yanjun Qi / UVA CS
-
 # Rough Sectioning of this Course
 
 1\. Basic Supervised Regression \+ Tabular Data
@@ -692,14 +612,6 @@ Yanjun Qi / UVA CS
 4\. Generative and Deep \+ 1D Sequence Text Data
 
 5\. Not Supervised
-
-Yanjun Qi / UVA CS
-
-Yanjun Qi / UVA CS
-
-Yanjun Qi / UVA CS
-
-Yanjun Qi / UVA CS
 
 # Thank you
 
@@ -719,5 +631,5 @@ Hastie\, Trevor\, et al\. The elements of statistical learning\. Vol\. 2\. No\. 
 
 Prof\. M\.A\.Papalaskar’sslides
 
-Yanjun Qi / UVA CS
+
 
