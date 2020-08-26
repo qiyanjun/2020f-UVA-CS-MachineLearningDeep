@@ -4,9 +4,9 @@ title: ProbReview
 lecture:  S0-ProbReview
 lectureVersion: current
 extraContent:  
-video: <a href="https://youtu.be/oOEsLivSVkc"> video</a> 
+video:  
 extra: true
-notes: 
+notes: <a href="https://youtu.be/oOEsLivSVkc">old video</a>
 categories: 
 tags:
 - 1Basic
