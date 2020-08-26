@@ -69,9 +69,15 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
    + Zhe Wang
 
 
-+ #### TA office hours  
++ #### TA office hours and recitals
   - Via Zoom / Link Shared via Collab maillist
   - Tue / Thur 5pm-6pm
+  - On a few Fridays, we will add recital sessions from TA or invited speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist. These sessions are totally optional!  So far I have planned five recitals to cover:
+     + Scikit-learn library
+     + Pytorch platform
+     + Machine Learning in the cloud: AWS invited speaker
+     + RL Gym – invited speaker
+     + Adversarial ML – invited speaker
 
 ### Text Book
 + No required text book.
