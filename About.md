@@ -71,11 +71,11 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 + #### TA office hours and recitals
   - Via Zoom / Link Shared via Collab maillist
-  - Tue / Thur 5pm-6pm
-  - On a few Fridays, we will add recital sessions from TA or invited speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist. These sessions are totally optional!  So far I have planned five recitals to cover:
+  - Tue / Thur: 5pm-6pm
+  - On multiple Fridays, we will add recital sessions from TA or invited speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist. These sessions are totally optional!  So far we have five recitals that will cover:
      + Scikit-learn library
-     + Pytorch platform
      + Machine Learning in the cloud: AWS invited speaker
+     + Pytorch platform
      + RL Gym – invited speaker
      + Adversarial ML – invited speaker
 
@@ -130,19 +130,26 @@ send mail to the instructor.
    on  the course piazza site and through course email-list.
 
 ### Discussion board
-We will use Piazza for a discussion board. In addition to in-person assistance, this is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting. You can visit our class Piazza site through the course collab sidebar. Ask all technical questions about the course material or the assignments on Piazza. 
+We will use Piazza for a discussion board. In addition to office hour assistance, this is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting. You can visit our class Piazza site through the course collab sidebar. Ask all technical questions about the course material or the assignments on Piazza. 
+
 
 ### Extra Useful references
 
++ [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
++ [fast.ai Making neural nets uncool again](https://www.fast.ai/)
+
++ [Deep Learning, An MIT Press book in preparation, Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/lecture_slides.html)
+
 + [Stanford Machine Learning Course Youtube Videos (by Andrew Ng)](https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)
 + [Yaser Abu-Mostafa : Caltech course: Learning from data](https://www.youtube.com/playlist?list=PLD63A284B7615313A)+ [book](https://work.caltech.edu/textbook.html)
-+ More advanced Learning @
-  +[my Notes2LearnLearning](http://www.cs.virginia.edu/yanjun/list2LearnLearning.htm)
-  + [my Notes2 Learn Deep Learning](https://qdata.github.io/deep2Read/)
-+ Following books are great resources:
+
++ Following books are great resources for advanced machine learning:
   + [Elements of Statistical Learning](http://www.stanford.edu/~hastie/local.ftp/Springer/OLD//ESLII_print4.pdf) by by Hastie, Tibshirani and Friedman.
   + [Pattern Recognition and Machine Learning](https://www.springer.com/us/book/9780387310732), by Christopher Bishop.
   + [Yaser Abu-Mostafa:  Learning from data](https://work.caltech.edu/textbook.html)  
+  +[my Notes2Learn large scale machine Learning](http://www.cs.virginia.edu/yanjun/list2LearnLearning.htm)
+  + [my Notes2 Learn Deep Learning](https://qdata.github.io/deep2Read/)
 
 
 ### Academic Integrity

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignments
-desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Machine Learning"
+desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Machine Learning"
 ---
 
 <hr>
@@ -45,21 +45,21 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
   <td>Out in Collab</td>
   <td>W6</td>
   <td>W9</td>
-  <td>Deep NN to implement, SVM to compete </td>
+  <td>Deep NN on imaging to implement and to compete  </td>
 </tr>
 <tr>
   <td>HW4</td>
   <td>Out in Collab</td>
   <td>W9</td>
   <td>W11</td>
-  <td> kNN to implement, SVM, and Trees to compare, Model</td>
+  <td> kNN to implement, SVM, and Trees to compare, to Model select</td>
 </tr>
 <tr>
   <td>HW5</td>
   <td>Out in Collab</td>
   <td>W12</td>
   <td>W14</td>
-  <td>NBC and Deep Text to implement and compete</td>
+  <td>NBC and Deep on Text to implement and compete</td>
 </tr>
 </table>
 
@@ -71,42 +71,26 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
 + Each quizz includes contents we cover in the previous week
 + We will use your top-10 quizzes to calculate the 20%. 
 
-+ Here is the potential paper list: 
-
-
 |INDEX     | Quiz |
 |------|----------------------------|
-| Q0   | [URL]() |
-| Q1   | [URL](https://forms.gle/3TAzS5Gq4KsfVYzC8) |
-| Q2   | [URL](https://forms.gle/bo9mTo1Nor52wtVc6) |
-| Q3   | [URL](https://forms.gle/jMAaFFxsZ38ttQQ49) |
-| Q4   | [URL](https://forms.gle/4tTNpD4hvUPNtyNq9) |
-| Q5   |  [URL](https://forms.gle/zPqSXCZRKrYHVx4b8) |
-| Q6   | [URL](https://forms.gle/mVBdT3LLnjvdSqFf7) |
-| Q7   | [URL](https://forms.gle/uoipgqGbjV5BsrHH7) |
-| Q8   | [URL](https://forms.gle/pUFSQix4eNtyT9zA7) |
-| Q9   | [URL](https://forms.gle/Jf7vuhpsx1w5rNdx9)  |
-| Q10   | [URL](https://forms.gle/qFzwDczFUoqWMeDe6)  |
-| Q11   | [URL](https://forms.gle/88D7VHnEQfE1hsWc8)  |
-| Q12   | [URL] |
+| Q1   | [URL]() |
+| Q2   | [URL]() |
+| Q3   | [URL]() |
+| Q4   | [URL]() |
+| Q5   | [URL]() |
+| Q6   | [URL]() |
+| Q7   | [URL]() |
+| Q8   | [URL]() |
+| Q9   | [URL]() |
+| Q10   | [URL]() |
+| Q11   | [URL]() |
+| Q12   | [URL]() |
+| Q-makeup   | [URL]() |
 
 
 
 ### About Final Project (30%)
 + Each team includes up to four students 
-+ To understand, reproduce and present one cutting-edge machine learning paper
-
-+ Each team is required to submit three documents for their project
-  - 5 Points: A powerpoint file (Due in Collab on Oct 20th) summarizing the paper via a template
-  - 5 Points: The updated powerpoint file (Due in Collab on Nov 30th) summarizing the paper via a template and describing the results you reproduce
-  - 5 Points: A iPython Jupyter notebook (Due in Collab on Dec 7th) to present the code, data visualization, and to obtain the results and analysis through step by step code cell run. Your team will go through and show the notebook at the final project presentation meeting to the instructors. 
-  - 5 Points: A formal presentation to the instructors (in the last week of the semester), presenting your slides and your iPython notebook. 
-  - 10 Points: A formal report to the instructors (in the last week of the semester), describing your projects: motivation, method, results and insights. 
-
-+ For the iPython Jupyter notebook your team needs to make: 
-  - A Jupyter iPython template is shared to help you structure the project code. 
-  - Please read the following papers and then make your IPython Jupiter notebook: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055)
-
 
 + By Week3, we will use a google spreadsheet to coordinating team forming and paper bidding. 
 + Please discuss with your fellow classmates, forming potential teams ASAP. 
@@ -115,12 +99,24 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 6316 Ma
 [2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu). 
 
 + You can select a project from three potential types: 
-  - a. To produce one machine learning project on cutting-edge data applications with health or social impacts
-  - b. Survey and benchmark multiple pytorch library with a shared goal
-  - c. To Reproduce a cutting-edge machine learning paper, for instance from Top Venues' most cited 2009 papers 
+  - a. [Application-Type:] To produce one machine learning project on cutting-edge data applications with health or social impacts
+  - b. [Engineering-Type:] Survey and benchmark multiple pytorch library with a shared goal
+  - c. [Research-Type:] To Reproduce a cutting-edge machine learning paper, for instance from Top Venues' most cited 2019 papers 
+
+
++ Each team is required to submit multiple documents for their project
+  - 5 Points (Due in Collab at W4): A powerpoint file  summarizing the proposed benchmarking idea / or the proposed application / or the to-reproduced-paper via a template
+  - 5 Points (Due in Collab at W6 ): A project proposal  summarizing the concrete project plan 
+  - 5 Points (Due in Collab at W12): A iPython Jupyter notebook / or A python code repo to present your team's code, data visualization, and to obtain the results and analysis through step by step code/ cell run. Your team will go through and show the code-run at the final project presentation meeting to the instructors. 
+  - 5 Points (in the last week of the semester): A formal presentation to the instructors  
+  - 10 Points (in the last week of the semester): A formal report to the instructors , describing your projects: motivation, method, results and insights. 
+
++ For the iPython Jupyter notebook your team needs to make: 
+  - A Jupyter iPython template is shared to help you structure the project code. 
+  - Please read the following papers and then make your IPython Jupiter notebook: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055)
    
 
-+ Here is the potential paper list (TBD): 
++ Here is the potential paper / data / library list (TBD): 
 
 |INDEX     |Title  & Link  |Conference|Year|
 |------|----------------------------|-----|----------|----|

@@ -1,1 +1,1 @@
-# 2020f-UVA-CS4501-MachineLearningMath
+# 2020f-UVA-CS4774-MachineLearningMath

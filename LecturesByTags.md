@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Topics
-desc: "2020 Fall UVa CS 6316 Machine Learning Lectures Organized by Tags"
+desc: "2020 Fall UVa CS Machine Learning Lectures Organized by Tags"
 ---
 <p><a name="topPage"></a></p>
 

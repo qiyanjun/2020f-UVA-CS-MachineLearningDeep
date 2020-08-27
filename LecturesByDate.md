@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slides
-desc: "2020 Fall UVa CS 6316 Machine Learning Lectures Organized by Given Order"
+desc: "2020 Fall UVa CS Machine Learning Lectures Organized by Given Order"
 ---
 
 
