@@ -4,10 +4,10 @@ title: ProbReview
 lecture:  S0-ProbReview
 lectureVersion: current
 extraContent:  
-video: <a href="https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks">scikit-learn code examples</a> 
+video: <a href="https://www.youtube.com/watch?v=Q2HfGUOgoo4">old video</a>
 extra: true
-notes: <a href="https://youtu.be/oOEsLivSVkc">old video</a>
-categories: 
+notes: 
+categories: <a href="https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks">scikit-learn code examples</a> 
 tags:
 - 1Basic
 ---
