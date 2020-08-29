@@ -70,19 +70,18 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 
 + #### TA office hours and recitals
-  - Via Zoom / Link Shared via Collab maillist
-  - Tue / Thur: 5pm-6pm
-  - On multiple Fridays, we will add recital sessions from TA or invited speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist. These sessions are totally optional!  So far we have five recitals that will cover:
-     + Scikit-learn library
-     + Machine Learning in the cloud: AWS invited speaker
-     + Pytorch platform
-     + RL Gym – invited speaker
-     + Adversarial ML – invited speaker
+  - Via Course Slack Space / Link Shared via Collab maillist
+  - Tue: 5pm-6pm by Jack
+  - Thur: 5pm-6pm By Zhe
+  
++ #### Recital lectures about ML platforms
+  - On multiple Fridays, we will add recital sessions from TA or invited 
+  speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist. These sessions are totally optional!  So far we have four recitals to cover:
+  - Machine Learning in the cloud: AWS invited speaker
+  - Pytorch platform
+  - RL Gym – invited speaker
+  - Adversarial ML – invited speaker
 
-### Text Book
-+ No required text book.
-+ Course slides and handouts are self-contained.
-+ Multiple reference books are shared below
 
 ### Course Websites
 
@@ -91,6 +90,14 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 + Course Collab page to submit  assignments and project reports.
 + All logistic issues are announced via course [email list](mailto:20f-cs-4774-002-machine-learning@collab.its.virginia.edu)
 
+
+### Course QA Slack Space and Assignments' QA on Piazza 
+
++ We have two separate discussions boards: (1) QAs about lectures and Quizzes via our course slack; (2) QAs on assignments in Course Piazza Board
+
++ Course Slack Space: We use Course Slack for office hour assistances and QA discussions on lectures and Quizzes.  Please ask all technical questions about the course content, Quiz and course projects on Course Slack. 
+
++ We will use Piazza for QAs on Assignments. You can visit our class Piazza site through the course collab sidebar. This is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting on the assignments. 
 
 
 ### Course Grading Policy
@@ -129,8 +136,13 @@ send mail to the instructor.
 + Errata and answers to questions are being discussed and answered
    on  the course piazza site and through course email-list.
 
-### Discussion board
-We will use Piazza for a discussion board. In addition to office hour assistance, this is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting. You can visit our class Piazza site through the course collab sidebar. Ask all technical questions about the course material or the assignments on Piazza. 
+
+
+
+### Text Book
++ No required text book.
++ Course slides and handouts are self-contained.
++ Multiple reference books are shared below
 
 
 ### Extra Useful references
