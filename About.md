@@ -60,11 +60,11 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 + ##### Prof. Yanjun Qi: 
   - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}
-  - [yanjun@virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu);  
+  - [yanjun@virginia.edu](mailto:instructors20fall-machinelearningdeep@collab.its.virginia.edu);  
   - Rice Hall 503, 243-3089;  
 
 + ##### TAs: 
-   + [2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu): 
+   + [instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors20fall-machinelearningdeep@collab.its.virginia.edu): 
    + Jack Lanchantin
    + Zhe Wang
 
@@ -114,7 +114,7 @@ at 11:59pm on the due date </b>.
 + Programming solutions should be placed in each student's appropriate
  Collab  directory.
 
-+ #### All communications regarding late assignment submissions should go directly to [2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu), not with the instructor.
++ #### All communications regarding late assignment submissions should go directly to [instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu), not with the instructor.
 
 + About Extensions:
   + Each student has <b>three</b> extension days to be used at his or

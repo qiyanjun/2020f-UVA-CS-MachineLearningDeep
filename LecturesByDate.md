@@ -50,7 +50,7 @@ desc: "2020 Fall UVa CS Machine Learning Lectures Organized by Given Order"
 
   {% if post.lecture  %}
     {% if post.lectureVersion contains 'current' %}
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://qiyanjun.github.io/2020f-UVA-CS6316-MachineLearning//Lectures/{{ post.lecture }}.pdf" width="800" height="595"> 
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://qiyanjun.github.io/2020f-UVA-CS6316-MachineLearning//Lectures/{{ post.lecture }}.pdf" width="400" height="295"> 
     {% endif %}
   {% endif %}
 

@@ -9,10 +9,10 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 ### Five assignments (50%)
 + Post in collab 
 + You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
-[2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu).
+[instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors20fall-machinelearningdeep@collab.its.virginia.edu).
 
 + Please submit all extension requests, questions, and late assignments  to <br>
-[2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu).
+[instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors20fall-machinelearningdeep@collab.its.virginia.edu).
  
 
 <table id="datatab3" summary="Five Assignments" border="1">
@@ -96,7 +96,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 + Please discuss with your fellow classmates, forming potential teams ASAP. 
 + We allow self-selected papers. 
 + Please share questions and concerns to  to <br>
-[2020fall-machinelearningdeep-instructors@collab.its.virginia.edu](mailto:2020fall-machinelearningdeep-instructors@collab.its.virginia.edu). 
+[instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors20fall-machinelearningdeep@collab.its.virginia.edu). 
 
 + You can select a project from three potential types: 
   - a. [Application-Type:] To produce one machine learning project on cutting-edge data applications with health or social impacts
