@@ -74,7 +74,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 |INDEX     | Quiz |
 |------|----------------------------|
 | Q0-fake   | [URL](https://forms.gle/B6Rr6NLRS2G5oUbu5) |
-| Q1   | [URL]() |
+| Q1   | [URL](https://forms.gle/K62mXY3cKQAUwQP5A) |
 | Q2   | [URL]() |
 | Q3   | [URL]() |
 | Q4   | [URL]() |
