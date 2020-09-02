@@ -20,7 +20,14 @@ layout: default
   {% if post.notes %}
   <li>Useful to Read: {{ post.notes }} </li>
   {% endif %}
+
+  {% if post.video %}
+  <li>Recorded Videos: {{ post.video }} </li>
+  {% endif %}
+
 </ul>
+
+
 
   {% for temp in post.tags %}
     <a class="button" href="{{ site.baseurl }}/LecturesByTags/#{{temp | replace:" ","-" }}">{{ temp }}</a>
