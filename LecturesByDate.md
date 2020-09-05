@@ -28,11 +28,15 @@ desc: "2020 Fall UVa CS Machine Learning Lectures Organized by Given Order"
   {% endif %}
 
   {% if post.extraContent %}
-  <li>More to Read: <a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"  target="_blank">   {{ post.extraContent }} </a></li>
+  <li>More advanced to Read: <a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"  target="_blank">   {{ post.extraContent }} </a></li>
   {% endif %}
 
   {% if post.notes %}
-  <li>Useful to Read: {{ post.notes }} </li>
+  <li>Notes to Read: {{ post.notes }} </li>
+  {% endif %}
+
+  {% if post.morenotes %}
+  <li>Extra Notes to Read: {{ post.morenotes }} </li>
   {% endif %}
 
   {% if post.video %}

@@ -7,6 +7,7 @@ extraContent: S0-linalg-extra.pdf
 notes: <a href="https://www.khanacademy.org/math/multivariable-calculus">Khanacademy Math</a>
 video:  <a href="https://scikit-learn.org/stable/tutorial/basic/tutorial.html">scikit-learn tutorials</a>
 extra: true
+categories: prerequisite 
 tags:
 - 1Basic
 ---

@@ -7,7 +7,7 @@ extraContent:
 notes: 
 video:  
 extra: true
-categories: 
+categories: advanced
 tags:
 - Optimization
 - Generative

@@ -6,7 +6,7 @@ lectureVersion: next
 extraContent:   
 notes: 
 video:  
-categories: library
+categories: advanced
 extra: true
 tags:
 - Optimization
