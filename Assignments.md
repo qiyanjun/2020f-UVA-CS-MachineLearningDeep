@@ -35,7 +35,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 </tr>
 <tr>
   <td>HW2</td>
-  <td>Out in Collab</td>
+  <td>TBD</td>
   <td>W4</td>
   <td>W6</td>
   <td>Polynomial, Ridge, Model Selection to implement</td>
@@ -121,7 +121,37 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 
 + Here is the potential paper / data / library list (TBD): 
 
-|INDEX     |Title  & Link  |Conference|Year|
-|------|----------------------------|-----|----------|----|
-
+|INDEX     |Title  & Link  |Conference, Year|
+|------|----------------------------|----------|
+Index|Title|Venues |
+1|Semi-Supervised StyleGAN for Disentanglement Learning|ICML2020|
+2|Dispersed Exponential Family Mixture VAEs for Interpretable Text Generation|ICML2020|
+3|Perceptual Generative Autoencoders|ICML2020|
+4|Robust Graph Representation Learning via Neural Sparsification|ICML2020|
+5|Doubly Stochastic Variational Inference for Neural Processes with Hierarchical Latent Variables|ICML2020|
+6|Adaptive Adversarial Multi-task Representation Learning|ICML2020|
+7|Fundamental Tradeoffs between Invariance and Sensitivity to Adversarial Perturbations|ICML2020|
+8|Domain Aggregation Networks for Multi-Source Domain Adaptation|ICML2020|
+9|Simple and Deep Graph Convolutional Networks|ICM2020|
+10|Provable Representation Learning for Imitation Learning via Bi-level Optimization|ICML2020|
+11|Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks|ICLR2020|
+12|Causal Discovery with Reinforcement Learning|ICLR2020|
+13|Improving Generalization in Meta Reinforcement Learning using Learned Objectives|ICLR2020|
+14|ES-MAML: Simple Hessian-Free Meta Learning|ICLR2020|
+15|Adversarially Robust Representations with Smooth Encoders|ICLR2020|
+16|AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty|ICLR2020|
+17|Inductive Matrix Completion Based on Graph Neural Networks|ICLR2020|
+18|Understanding the Limitations of Variational Mutual Information Estimators|ICLR2020|
+19|On Mutual Information Maximization for Representation Learning|ICLR2020|
+20|Unsupervised Clustering using Pseudo-semi-supervised Learning|ICLR2020|
+21|A Simple Framework for Contrastive Learning of Visual Representations|ICLR2020|
+22|Noise-tolerant fair classification|NeurIPS2019|
+23|SGD on Neural Networks Learns Functions of Increasing Complexity|NeurIPS2019|
+24|On the Fairness of Disentangled Representations|NeurIPS2019|
+25|Approximate Inference Turns Deep Networks into Gaussian Processes|NeurIPS2019|
+26|"Time Matters in Regularizing Deep Networks: Weight Decay and Data Augmentation Affect Early Learning Dynamics Matter Little Near Convergence"|NeurIPS2019 |
+27|Self-Supervised Generalisation with Meta Auxiliary Learning|NeurIPS2019 |
+28|GNNExplainer: Generating Explanations for Graph Neural Networks|NeurIPS 2019 |
+29|DAG-GNN: DAG Structure Learning with Graph Neural Networks|ICML2019 |
+30|Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems |ICML2020 |
 
