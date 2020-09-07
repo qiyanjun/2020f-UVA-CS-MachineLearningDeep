@@ -123,7 +123,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 
 |INDEX     |Title  & Link  |Conference, Year|
 |--:|:--  | :-: |
-| Ignored | Papers for c. [Research-Type:]    |  Ignored |
+|  | ***Papers for c. [Research-Type]***    |    |
 1|Semi-Supervised StyleGAN for Disentanglement Learning|ICML2020|
 2|Dispersed Exponential Family Mixture VAEs for Interpretable Text Generation|ICML2020|
 3|Perceptual Generative Autoencoders|ICML2020|
