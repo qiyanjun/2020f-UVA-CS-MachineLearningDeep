@@ -42,21 +42,21 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 </tr>
 <tr>
   <td>HW3</td>
-  <td>Out in Collab</td>
+  <td>TBD</td>
   <td>W6</td>
   <td>W9</td>
   <td>Deep NN on imaging to implement and to compete  </td>
 </tr>
 <tr>
   <td>HW4</td>
-  <td>Out in Collab</td>
+  <td>TBD</td>
   <td>W9</td>
   <td>W11</td>
-  <td> kNN to implement, SVM, and Trees to compare, to Model select</td>
+  <td> kNN to implement, SVM, and BoostingTrees to compare, to Model select</td>
 </tr>
 <tr>
   <td>HW5</td>
-  <td>Out in Collab</td>
+  <td>TBD</td>
   <td>W12</td>
   <td>W14</td>
   <td>NBC and Deep on Text to implement and compete</td>
