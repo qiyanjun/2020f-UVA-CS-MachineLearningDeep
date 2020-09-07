@@ -122,8 +122,8 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 + Here is the potential paper / data / library list (TBD): 
 
 |INDEX     |Title  & Link  |Conference, Year|
-|------|----------------------------|----------|
-Index|Title|Venues |
+|--:|:--  | :-: |
+| Ignored | Papers for c. [Research-Type:]    |  Ignored |
 1|Semi-Supervised StyleGAN for Disentanglement Learning|ICML2020|
 2|Dispersed Exponential Family Mixture VAEs for Interpretable Text Generation|ICML2020|
 3|Perceptual Generative Autoencoders|ICML2020|
