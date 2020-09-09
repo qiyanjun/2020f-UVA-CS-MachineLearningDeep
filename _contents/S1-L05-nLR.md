@@ -4,9 +4,9 @@ title: LR with basis
 lecture: S1-LRSelectExtend
 lectureVersion: current
 extraContent: S1-nonparametric
-notes:  <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html"> polyRegression notebook </a>
+notes:  <a href="https://colab.research.google.com/drive/1gKEk0BuVORnpw_5jQ10wY1ZkA2mSXE AG?usp=sharing">polynomial regression notebook </a> 
 morenotes: <a href="https://stat.ethz.ch/~stahel/courses/cheming/nlreg10E.pdf"> NonLinearR </a> + <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">ELS Ch5 </a>
-video: <a href="https://youtu.be/x2RAtun-Z78"> video</a>
+video: <a href="https://youtu.be/oIQX1uXU_Bk">M1</a>
 categories: tabular
 tags:
 - 2Regression
