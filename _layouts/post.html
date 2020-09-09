@@ -13,18 +13,25 @@ layout: default
   <li>Version: {{ post.lectureVersion }}</li>
   {% endif %}
 
+
   {% if post.extraContent %}
-  <li>More to Read: <a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"  target="_blank">   {{ post.extraContent }} </a></li>
+  <td><a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"  target="_blank"> Notes: {{ post.extraContent }}</a></td>
+  {% else %}
+    <td></td>
   {% endif %}
 
+
   {% if post.notes %}
-  <li>Useful to Read: {{ post.notes }} </li>
+  <li>Please to Read: {{ post.notes }} </li>
   {% endif %}
 
   {% if post.video %}
   <li>Recorded Videos: {{ post.video }} </li>
   {% endif %}
 
+  {% if post.extraContent %}
+  <li>Advanced to Read: <a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"  target="_blank">   {{ post.extraContent }} </a></li>
+  {% endif %}
 
  {% if post.morenotes %}
   <li>Extra Notes to Read: {{ post.morenotes }} </li>

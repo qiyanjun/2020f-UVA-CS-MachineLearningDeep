@@ -32,7 +32,6 @@ Click on a tag to see relevant list of lectures.
  <h3><b>
   <th>Title</th>
   <th>Lecture</th>
-  <th>Extra <br>Content</th>
   <th>Notes</th>
   <th>Video</th>
   </b>
@@ -58,11 +57,7 @@ Click on a tag to see relevant list of lectures.
   <td></td>
   {% endif %}
 
-  {% if post.extraContent %}
-  <td><a href="{{ site.baseurl }}/Lectures/{{ post.extraContent }}.pdf"  target="_blank"> PDF </a></td>
-  {% else %}
-  <td></td>
-  {% endif %}
+
 
   <td>{{ post.notes }} </td> 
   <td> {{ post.video }}</td> 
