@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  Section 1 - Basics & On Tabular Input Type
+title:  Section 1 - Basics Supervised & On Tabular Input Type
 lectureVersion: current
 ---
