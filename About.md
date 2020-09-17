@@ -72,8 +72,10 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 + #### TA office hours and recitals
   - Via Course Slack Space / Link Shared via Collab maillist
   - Tue: 5pm-6pm by Jack
-  - Thur: 5pm-6pm By Zhe
+  - Fri: 4pm-5pm By Zhe
+  - Fri: 3pm-4pm By ProfQi / TA and Invited Speakers
   
+
 + #### Recital lectures about ML platforms
   - On multiple Fridays, we will add recital sessions from TA or invited 
   speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist. These sessions are totally optional!  So far we have four recitals to cover:
