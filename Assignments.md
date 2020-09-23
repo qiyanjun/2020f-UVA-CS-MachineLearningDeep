@@ -119,10 +119,26 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
   - Please read the following papers and then make your IPython Jupiter notebook: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055)
    
 
-+ Here is the potential paper / data / library list (TBD): 
++ Here is the potential data list:   
+
+
++ Here is the potential ideas (chunking into three types: (1) replicating paper (2) good applications on  COVID19 datasets, and (3) researching and benchmarking pytorch libraries.):  
 
 |INDEX     |Title  & Link  |Conference, Year|
 |--:|:--  | :-: |
+|  |    |    |
+|  | ***COVID19 Data Hub for b. [Application-Type]***    |    |
+| Hub1  |  COVID19 Kaggle [https://datasets.coronawhy.org](https://datasets.coronawhy.org) |  2020  |
+| Hub2  |  COVID19 Data [https://datasets.coronawhy.org](https://datasets.coronawhy.org) |  2020  |
+|   | ![data][{{site.url}}/public/covidData.png]{:class="img-responsive"}  |  2020  |
+|  |    |    |
+|  | ***Pytorch Library Investigation for b. [Engineering-Type]***    |    |
+| Hub | [https://paperswithcode.com/methods](https://paperswithcode.com/methods)   |  2020   |
+| 1 |  [to interpret deep NLP models](https://github.com/PAIR-code/lit)  |  2020  |
+| 2 |  [to interpret deep NLP models](https://github.com/QData/TextAttack)  |  2020  |
+| 3|[to benchmark adversarial attacks](https://paperswithcode.com/task/adversarial-attack) |    |
+|  more | ![trend][{{site.url}}/public/trend.png]{:class="img-responsive"}  |  2020  |
+|  |    |    |
 |  | ***Papers for c. [Research-Type]***    |    |
 1|Semi-Supervised StyleGAN for Disentanglement Learning|ICML2020|
 2|Dispersed Exponential Family Mixture VAEs for Interpretable Text Generation|ICML2020|
