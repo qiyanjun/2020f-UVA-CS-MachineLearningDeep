@@ -134,7 +134,9 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 | 1 |  to interpret deep NLP models: [LIT](https://github.com/PAIR-code/lit)  |  2020  |
 | 1 |  to interpret deep general models: [Captum](https://captum.ai/)  |  2020  |
 | 2 |  [to attack deep NLP models](https://github.com/QData/TextAttack)  |  2020  |
-| 3|[to benchmark adversarial attacks](https://paperswithcode.com/task/adversarial-attack) |    |
+| 3|[to benchmark adversarial attacks](https://paperswithcode.com/task/adversarial-attack) ||
+|4| Hyperparameter Optimization with PyTorch’s Ecosystem Tools [Here](https://medium.com/pytorch/accelerate-your-hyperparameter-optimization-with-pytorchs-ecosystem-tools-bc17001b9a49) ||
+| 5| Deep Probabilistic Programming: [Pyro](https://github.com/pyro-ppl/pyro) ||
 |  more | <img src="{{site.baseurl}}/public/trend.png">   |  2020  |
 |  |    |    |
 |  | ***Papers for c. [Research-Type]***    |    |
