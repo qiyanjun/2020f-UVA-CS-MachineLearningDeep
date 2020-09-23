@@ -93,7 +93,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 ### About Final Project (30%)
 + Each team includes up to four students 
 
-+ By Week3, we will use a google spreadsheet to coordinating team forming and paper bidding. 
++ By Week4, we will use a google spreadsheet to coordinating team forming and paper bidding. 
 + Please discuss with your fellow classmates, forming potential teams ASAP. 
 + We allow self-selected papers. 
 + Please share questions and concerns to  to <br>
@@ -108,21 +108,18 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 
 
 + Each team is required to submit multiple documents for their project
-  - 5 Points (Due in Collab at W4): A powerpoint file  summarizing the proposed benchmarking idea / or the proposed application / or the to-reproduced-paper via a template
-  - 5 Points (Due in Collab at W6 ): A project proposal  summarizing the concrete project plan 
-  - 5 Points (Due in Collab at W12): A iPython Jupyter notebook / or A python code repo to present your team's code, data visualization, and to obtain the results and analysis through step by step code/ cell run. Your team will go through and show the code-run at the final project presentation meeting to the instructors. 
+  - 5 Points (Due in Collab at W7): A powerpoint file  summarizing the proposed benchmarking idea / or the proposed application / or the to-reproduced-paper via a template
+  - 5 Points (Due in Collab at W10 ): A project proposal report summarizing the concrete project plan 
+  - 5 Points (Due in Collab in the last week of the semester): A iPython Jupyter notebook / or A python code repo to present your team's code, data visualization, and to obtain the results and analysis through step by step code/ cell run. Your team will go through and show the code-run at the final project presentation meeting to the instructors. 
   - 5 Points (in the last week of the semester): A formal presentation to the instructors  
-  - 10 Points (in the last week of the semester): A formal report to the instructors , describing your projects: motivation, method, results and insights. 
+  - 10 Points (Due in Collab  in the last week of the semester): A formal report to the instructors , describing your projects: motivation, method, results and insights. 
 
 + For the iPython Jupyter notebook your team needs to make: 
   - A Jupyter iPython template is shared to help you structure the project code. 
   - Please read the following papers and then make your IPython Jupiter notebook: [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/abs/1810.08055)
    
 
-+ Here is the potential data list:   
-
-
-+ Here is the potential ideas (chunking into three types: (1) replicating paper (2) good applications on  COVID19 datasets, and (3) researching and benchmarking pytorch libraries.):  
++ Here is a list of the potential ideas (chunking into three types: (1) replicating paper (2) good applications on  COVID19 datasets, and (3) researching and benchmarking pytorch libraries.):  
 
 |INDEX     |Title  & Link  |Conference, Year|
 |--:|:--  | :-: |
