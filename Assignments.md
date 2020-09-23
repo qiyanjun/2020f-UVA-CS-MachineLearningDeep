@@ -134,8 +134,9 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 |  |    |    |
 |  | ***Pytorch Library Investigation for b. [Engineering-Type]***    |    |
 | Hub | [https://paperswithcode.com/methods](https://paperswithcode.com/methods)   |  2020   |
-| 1 |  [to interpret deep NLP models](https://github.com/PAIR-code/lit)  |  2020  |
-| 2 |  [to interpret deep NLP models](https://github.com/QData/TextAttack)  |  2020  |
+| 1 |  to interpret deep NLP models: [LIT](https://github.com/PAIR-code/lit)  |  2020  |
+| 1 |  to interpret deep general models: [Captum](https://captum.ai/)  |  2020  |
+| 2 |  [to attack deep NLP models](https://github.com/QData/TextAttack)  |  2020  |
 | 3|[to benchmark adversarial attacks](https://paperswithcode.com/task/adversarial-attack) |    |
 |  more | <img src="{{site.baseurl}}/public/trend.png">   |  2020  |
 |  |    |    |
