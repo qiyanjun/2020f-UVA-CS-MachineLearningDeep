@@ -129,15 +129,15 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 |  |    |    |
 |  | ***COVID19 Data Hub for b. [Application-Type]***    |    |
 | Hub1  |  COVID19 Kaggle [https://datasets.coronawhy.org](https://datasets.coronawhy.org) |  2020  |
-| Hub2  |  COVID19 Data [https://datasets.coronawhy.org](https://datasets.coronawhy.org) |  2020  |
-|   | ![data]({{site.url}}/public/covidData.png){:class="img-responsive"}  |  2020  |
+| Hub2  |  COVID19 Data [https://datasets.coronawhy.org](https://datasets.coronawhy.org) |2020  |
+|   | <img src="{{site.baseurl}}/public/covidData.png">  |  2020  |
 |  |    |    |
 |  | ***Pytorch Library Investigation for b. [Engineering-Type]***    |    |
 | Hub | [https://paperswithcode.com/methods](https://paperswithcode.com/methods)   |  2020   |
 | 1 |  [to interpret deep NLP models](https://github.com/PAIR-code/lit)  |  2020  |
 | 2 |  [to interpret deep NLP models](https://github.com/QData/TextAttack)  |  2020  |
 | 3|[to benchmark adversarial attacks](https://paperswithcode.com/task/adversarial-attack) |    |
-|  more | ![trend]({{site.url}}/public/trend.png){:class="img-responsive"}  |  2020  |
+|  more | <img src="{{site.baseurl}}/public/trend.png">   |  2020  |
 |  |    |    |
 |  | ***Papers for c. [Research-Type]***    |    |
 1|Semi-Supervised StyleGAN for Disentanglement Learning|ICML2020|
