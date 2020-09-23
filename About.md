@@ -24,11 +24,22 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
   + Key Results: (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to produce one machine learning project on cutting-edge data applications with health or social impacts or with cutting-edge engineering impacts on deep learning benchmarking libraries. 
 
 
+
++ More concrete goals we aim to train our students: 
+  1. You should build up a solid mathematical background. From probability to statistics / From multivariate calculus, to matrix algebra, e.g. VERY comfortable on gradients.
+
+  2. You should build up a general knowledge of machine learning. You don’t need to know every single special algorithms and architecture, but the basics help. You should get comfortable with the main concepts and terminology. 
+
+  3. You should become familiar with at least one machine learning and one deep learning library. You should feel pretty confident in implementing some simple do supervised learning algorithms at least.
+
+  4. You should write own implementations. Limited by the time scope of the course, we only have a few implementation finished by the end. But you should implement as many of the learning algorithms from scratch as you can after the course. This is the best way to deepen your understanding of how they work, as well as to develop intuitions for specific performance characteristics.
+
+
+
 ### Prerequisite:
 
 + Students should have had good programming skills and program well using python  (required) !
 + Required courses as prerequisites: Calculus, Matrix algebra,  Probability and  Algorithm. Statistics is recommended.
-
 
 + If you are unsure of your math background, please check out the following two review lectures I made: 
 
@@ -54,6 +65,7 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 |                          | - Matrix Computation,  Strassen's    |
 |                          | - P / NP ...    |
 |                          | - Vectorization, Memory Hierarchy    |
+
 
 
 ### Instructors
