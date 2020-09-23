@@ -93,9 +93,9 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 ### About Final Project (30%)
 + Each team includes up to four students 
 
-+ By Week4, we will use a google spreadsheet to coordinating team forming and paper bidding. 
++ By Week4, we will use a google spreadsheet to coordinating team forming and project bidding. 
 + Please discuss with your fellow classmates, forming potential teams ASAP. 
-+ We allow self-selected papers. 
++ We allow self-selected papers; libraries; but not close-domain datasets. 
 + Please share questions and concerns to  to <br>
 [instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors20fall-machinelearningdeep@collab.its.virginia.edu). 
 
