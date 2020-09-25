@@ -131,13 +131,13 @@ at 11:59pm on the due date </b>.
 + #### All communications regarding late assignment submissions should go directly to [instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu), not with the instructor.
 
 + About Extensions:
-  + Each student has <b>three</b> extension days to be used at his or
+  + Each student has <b>ten</b> extension days to be used at his or
 her own discretion throughout the entire course.
   + Your grades would be
 discounted by 10% per day when you use these late days.
   + You could use the days in whatever combination you like. For example,
 all days on 1 assignment or 1 each day
-over six assignments (for a maximum grade of 90% on each).
+over assignments and reports (for a maximum grade of 90% on each).
   + After you've used all late days, you cannot get credit
 for anything turned in late.
 
