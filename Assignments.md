@@ -104,7 +104,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
   - b. [Engineering-Type:] Survey and benchmark multiple pytorch library with a shared goal
   - c. [Research-Type:] To Reproduce a cutting-edge machine learning paper, for instance from Top Venues' most cited 2019 papers 
     + Here are the project presentations from 2019-Fall master-level machine learning that I offered. 
-    + All were of "research-type": [https://github.com/qiyanjun/deep2reproduce](https://github.com/qiyanjun/deep2reproduce)
+    + All were of "research-type": [https://github.com/qiyanjun/deep2reproduce](https://github.com/Qdata4Capstone/course19-deep2reproduce)
 
 
 + Each team is required to submit multiple documents for their project
