@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feature Selection and Model Selection
+title: Feature Selection 
 lecture: S4-feaSelc
 lectureVersion: next
 video: <a href="https://youtu.be/jDHgFQW6UzA"> video</a>
