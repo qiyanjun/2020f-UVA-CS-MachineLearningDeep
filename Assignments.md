@@ -126,7 +126,8 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 |  |    |    |
 |  | ***COVID19 Data Hub for b. [Application-Type]***    |    |
 | Hub1  |  COVID19 in Kaggle [https://www.kaggle.com/search?q=COVID](https://www.kaggle.com/search?q=COVID) |  2020  |
-| Hub2  |  COVID19 Data [https://datasets.coronawhy.org](https://datasets.coronawhy.org) |2020  |
+| Hub2 |  COVID19 in NCBI [https://www.ncbi.nlm.nih.gov/sars-cov-2/](https://www.ncbi.nlm.nih.gov/sars-cov-2/) |  2020  |
+| Hub3  |  COVID19 Data [https://datasets.coronawhy.org](https://datasets.coronawhy.org) |2020  |
 |   | <img src="{{site.baseurl}}/public/covidData.png">  |  2020  |
 |  |    |    |
 |  | ***Pytorch Library Investigation for b. [Engineering-Type]***    |    |
