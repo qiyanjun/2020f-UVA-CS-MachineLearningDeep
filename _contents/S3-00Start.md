@@ -1,4 +1,4 @@
 ---
 layout: post
-title:  Section 3 - More Advanced Supervsied on Tabular Type
+title:  Section 4 - Deep ang Generative on 1D Sequence Type (e.g. Language Text)
 ---
