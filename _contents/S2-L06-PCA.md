@@ -1,11 +1,12 @@
 ---
 layout: post
-title: PCA, TSNE, UMAP
-lecture: S2-L14-PCA 
-extraContent: L07-feaSelc
-notes: 
+title: PCA, Feature Selection
+lecture: S2-dimReduce
+extraContent:  S2-PCA
+notes: <a href="https://umap-learn.readthedocs.io/en/latest/"> video </a>  
+video: <a href="https://youtu.be/foOw7tTDZq0"> video </a> 
+categories: 2d (vision)
 lectureVersion: current
-categories: tabular
 tags:
 - DimenReduct
 ---
