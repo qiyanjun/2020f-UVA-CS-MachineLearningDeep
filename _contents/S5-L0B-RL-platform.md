@@ -3,7 +3,7 @@ layout: post
 title: deep RL Gym 
 lecture: S5-RL-gym
 lectureVersion: Recitations
-extraContent:   
+extra: true
 notes: Invited Speaker
 video:  
 categories: library

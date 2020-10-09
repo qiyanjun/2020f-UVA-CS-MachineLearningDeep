@@ -3,7 +3,7 @@ layout: post
 title:  self/semi-supervised
 lecture: S2-semi-self-learning
 lectureVersion: next
-extraContent:   
+extra: true
 notes: 
 video:  
 categories: advanced 
