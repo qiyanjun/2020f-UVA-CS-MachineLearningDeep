@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  
+title:  TA pyTorch
 lecture: S2-pytorch
 lectureVersion: Recitations
-extraContent: 
+lectureVersion: current
 notes: TA survey pytorch
 video: 
 platform: true

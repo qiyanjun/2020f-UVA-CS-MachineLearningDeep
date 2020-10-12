@@ -2,7 +2,7 @@
 layout: post
 title: auto differentiation 
 lecture: S2-auto-grad
-lectureVersion: next
+lectureVersion: current
 extraContent:   
 notes: 
 video:  
