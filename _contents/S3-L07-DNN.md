@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Quick survey of recent deep learning
-lecture: S2-deepSurvey 
+lecture: S3-deepSurvey 
 lectureVersion: next
-extraContent: L16-PCA 
+extraContent:  
 video: <a href="https://youtu.be/gfvY30w4MoY"> video</a> 
 notes: <a href="https://github.com/afshinea/stanford-cs-230-deep-learning"> DNN Cheatsheets </a> 
 categories: structured
