@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning to Generate 
-lecture: S4-deepRecommend 
+lecture: S3-deepGenerate 
 lectureVersion: next
 video: <a href="https://youtu.be/xrz9YTG7Ag8"> video</a> 
 extra: true

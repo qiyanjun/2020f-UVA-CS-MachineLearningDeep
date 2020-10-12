@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  RF and Boosting
-lecture: S3-ensemble-boosting
+lecture: S4-ensemble-boosting
 lectureVersion: next
 extraContent: L18c-More-Boosting  
 notes: <a href="https://github.com/dmlc/xgboost"> xgboost </a> 
