@@ -5,7 +5,7 @@ lecture: S1-lrSparse
 lectureVersion: current
 extraContent: S1-Extra-lrReguOpm
 notes: <a href="https://web.stanford.edu/~hastie/TALKS/enet_talk.pdf"> Elastic paper </a>  
-video: <a href="https://youtu.be/3XSfwfvc9N8"> video</a>
+video: <a href="https://youtu.be/3XSfwfvc9N8"> old video</a>
 categories: tabular
 extra: true
 tags:
