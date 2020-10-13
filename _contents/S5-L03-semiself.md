@@ -5,7 +5,8 @@ lecture: S5-semi-self-learning
 lectureVersion: next
 notes: 
 video:  
+extra: true
 categories: advanced 
 tags:
-- semi-supervised
+- notSupervised
 ---
