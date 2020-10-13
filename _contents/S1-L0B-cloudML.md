@@ -4,7 +4,7 @@ title: machine leanring in the AWS cloud
 lecture: S1-CloudML
 lectureVersion: current
 extraContent:   
-notes: Invited Speaker Teach  
+notes: Invited Speaker   
 video: <a href="https://access.awscloud.com/initiate-elearning-series">video</a>
 categories: library
 platform: true
