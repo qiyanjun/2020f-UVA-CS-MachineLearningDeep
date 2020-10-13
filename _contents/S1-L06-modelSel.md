@@ -6,7 +6,7 @@ lectureVersion: current
 extraContent: 
 notes: <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html"> hyperpara select notebook </a> + <a href="http://scikit-learn.org/stable/model_selection.html">flow API </a> 
 morenotes: <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">ELS Ch5 </a>
-video: <a href="https://youtu.be/QJC-GbMP95E"> video</a>
+video: <a href="https://youtu.be/QJC-GbMP95E"> M1</a>
 categories: tabular
 tags:
 - 2Regression
