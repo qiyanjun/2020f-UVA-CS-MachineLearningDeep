@@ -90,7 +90,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 
 
 ### About in-class flip recital sessions 
-+ Starting from Week8, we shift  
++ Starting from Week8, we shift from Synchorous lectures to flip models. During the flip mode, we use two weekly scheduled time sessions for the following plan. 
 
 |INDEX     | Content for Flipped Recital Sessions |
 |------|----------------------------|
