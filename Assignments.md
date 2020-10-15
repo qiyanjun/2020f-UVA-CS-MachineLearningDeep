@@ -52,14 +52,14 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
   <td>TBD</td>
   <td>W9</td>
   <td>W11</td>
-  <td> kNN to implement, SVM, and BoostingTrees to compare, to Model select</td>
+  <td>NBC and Deep on Text to implement and compete</td>
 </tr>
 <tr>
   <td>HW5</td>
   <td>TBD</td>
-  <td>W12</td>
-  <td>W14</td>
-  <td>NBC and Deep on Text to implement and compete</td>
+  <td>W11</td>
+  <td>W13</td>
+  <td> kNN to implement, SVM, and BoostingTrees to compare</td>
 </tr>
 </table>
 
@@ -87,6 +87,27 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 | Q11   | [URL]() |
 | Q12   | [URL]() |
 | Q-makeup   | [URL]() |
+
+
+### About in-class flip recital sessions 
++ Starting from Week8, we shift  
+
+|INDEX     | Content for Flipped Recital Sessions |
+|------|----------------------------|
+| 1013 W8   | deep learning library  |
+| 1015  W8   | project plan checkup |
+| 1020  W9   | HW1 + HW2 discussions |
+| 1022  W9   | Quiz 1-5 discussions |
+| 1027  W10   | HW3 discussions |
+| 1029  W10   | Slides W9-10 discussions |
+| 1103  W11   | Invited speaker RLGym|
+| 1105  W11   | Invited speaker TextAttack |
+| 1110  W12   |  W11-12 Slides discussions |
+| 1112  W12   | project midreport checkup |
+| 1117  W13   |  HW3, HW4 discussions  |
+| 1119  W13   | Quiz 6-11 discussions +  W13 slides discussions |
+| 1124  W14  |  Final Project Presentations  |
+| 1126  W14  |  Final Project Presentations  |
 
 
 
