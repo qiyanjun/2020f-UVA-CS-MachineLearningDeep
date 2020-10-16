@@ -85,7 +85,6 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
   - Via Course Slack Space / Link Shared via Collab maillist
   - Tue: 5pm-6pm by Jack
   - Fri: 4pm-5pm By Zhe
-  - Fri: 3pm-4pm By ProfQi / TA and Invited Speakers
   
 
 + #### Recital lectures about ML platforms
