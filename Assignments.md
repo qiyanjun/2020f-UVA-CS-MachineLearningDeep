@@ -89,7 +89,7 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 | Q-makeup   | [URL]() |
 
 
-### About in-class flip recital sessions 
+### About in-class flip recital sessions organized by Prof. Qi
 + Starting from Week8, we shift from Synchorous lectures to flip models. During the flip mode, we use two weekly scheduled time sessions for the following plan. 
 
 |INDEX     | Content for Flipped Recital Sessions |
