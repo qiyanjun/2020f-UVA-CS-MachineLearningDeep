@@ -1,9 +1,8 @@
 ---
 layout: post
 title: machine leanring in the AWS cloud 
-lecture: S1-CloudML
+lecture: Not-Here
 lectureVersion: current
-extraContent:   
 notes: Invited Speaker   
 video: <a href="https://access.awscloud.com/initiate-elearning-series">video</a>
 categories: library

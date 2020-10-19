@@ -1,7 +1,7 @@
 ---
 layout: post
 title: auto differentiation 
-lecture: S2-auto-grad
+lecture: Not-Ready
 lectureVersion: current
 extraContent:   
 notes: 

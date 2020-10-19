@@ -1,7 +1,7 @@
 ---
 layout: post
 title: probabilistic programming
-lecture: S3-prob-program
+lecture: Not-Ready
 lectureVersion: next
 extraContent:   
 notes: 

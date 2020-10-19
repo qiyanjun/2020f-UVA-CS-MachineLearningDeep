@@ -3,7 +3,6 @@ layout: post
 title: Lasso and Elastic Net
 lecture: S1-lrRegularized
 lectureVersion: current
-extraContent: S1-Extra-lrReguOpm
 notes: <a href="https://web.stanford.edu/~hastie/TALKS/enet_talk.pdf"> Elastic paper </a>  
 video: <a href="https://youtu.be/3XSfwfvc9N8"> old video</a>
 categories: tabular
