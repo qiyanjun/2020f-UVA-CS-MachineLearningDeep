@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  self/semi-supervised
-lecture: S5-semi-self-learning
+lecture: Not-Ready 
 lectureVersion: next
 notes: 
 video:  
