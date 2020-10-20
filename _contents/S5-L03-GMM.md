@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clustering GMM
-lecture: S5-clustering-GMM
+lecture: S5-clustering3-GMM
 lectureVersion: next
 video: <a href="https://youtu.be/taykGRSIoi0"> video</a> 
 notes: 
