@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  RF and Boosting
-lecture: S4-ensemble-boosting
+lecture: S4-DT-Ensemble
 lectureVersion: next
-extraContent: L18c-More-Boosting  
+extraContent: S4-DT-moreBoosting
 notes: <a href="https://github.com/dmlc/xgboost"> xgboost </a> 
 video: <a href="https://youtu.be/8IyfeEjbIR0"> video</a> 
 categories: tabular
 tags:
 - 3Classification
-- Linear
+- Ensemble
 - Discriminative
 ---
