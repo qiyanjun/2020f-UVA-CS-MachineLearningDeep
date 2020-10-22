@@ -112,6 +112,14 @@ desc: "Information of Assignments and Final Project for 2020 Fall UVa CS 4774 Ma
 
 
 ### About Final Project (30%)
+
++ The purpose of our course project includes four folds
+  - (1) to learn by doing
+  - (2) to train students with 4C: Critical thinking, communication / collaboration / creativity
+  - (3) Regarding communication, we use a Why-What-How framework to structure all of our project deliverables.
+  - (4) to produce something with significance 
+
+
 + Each team includes up to four students 
 
 + By Week4, we will use a google spreadsheet to coordinating team forming and project bidding. 
