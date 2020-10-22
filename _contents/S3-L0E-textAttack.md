@@ -1,6 +1,6 @@
 ---
 layout: post
-title: adversarial machine leanring in NLP 
+title: adversarial text 
 lecture: S3-TextAttack
 lectureVersion: Recitations
 extraContent:   
