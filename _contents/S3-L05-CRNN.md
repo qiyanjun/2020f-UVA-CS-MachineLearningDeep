@@ -3,7 +3,7 @@ layout: post
 title: Recent deep learning on Text
 lecture: S3-deepNNtext
 lectureVersion: current
-video: <a href="https://youtu.be/gfvY30w4MoY">M1+M2+M3</a> 
+video: <a href="https://youtu.be/iTgy525nBq4">M1</a> + <a href="https://youtu.be/w22S24kFMmA">M2</a> 
 notes: <a href="https://github.com/afshinea/stanford-cs-230-deep-learning"> DNN text notebook</a> 
 categories: 1D (Text)
 tags:
