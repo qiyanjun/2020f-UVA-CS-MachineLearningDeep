@@ -2,7 +2,7 @@
 layout: post
 title: adversarial text 
 lecture: S3-TextAttack
-lectureVersion: Recitations
+lectureVersion: current
 extraContent:   
 notes: Invited Speaker
 video:    

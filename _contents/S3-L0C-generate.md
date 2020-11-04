@@ -2,7 +2,7 @@
 layout: post
 title: Learning to Generate 
 lecture: Not-Ready 
-lectureVersion: next
+lectureVersion: current
 video: 
 extra: true
 notes: 

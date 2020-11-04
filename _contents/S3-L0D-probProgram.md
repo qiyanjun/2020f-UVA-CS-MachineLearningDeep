@@ -2,7 +2,7 @@
 layout: post
 title: probabilistic programming
 lecture: Not-Ready
-lectureVersion: next
+lectureVersion: current
 extraContent:   
 notes: 
 video:  
