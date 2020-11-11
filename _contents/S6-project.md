@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Project Presentations
+title:  Project Presentations (Date TBD)
 lecture: Team Presentations
 lectureVersion: next
 extraContent:

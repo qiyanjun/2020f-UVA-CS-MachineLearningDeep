@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SVM, Dual
+title: More on Boosting
 lecture: S4-DT-moreBoosting
 lectureVersion: next
 notes: 

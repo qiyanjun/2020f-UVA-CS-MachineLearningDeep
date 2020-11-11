@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Review
-lecture: L20-review
+lecture: L26-review
 lectureVersion: next
-extraContent: L20-AfewUseful  
+extraContent: L26-AfewUseful  
 notes: <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en">[ML Cheatsheets]</a> 
 video: <a href="https://youtu.be/6F97EVjrC9M"> video</a> 
 tags:
