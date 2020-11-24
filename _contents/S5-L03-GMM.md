@@ -2,7 +2,7 @@
 layout: post
 title: Clustering GMM
 lecture: S5-clustering3-GMM
-lectureVersion: next
+lectureVersion: current
 video: 
 notes: 
 categories: tabular

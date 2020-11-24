@@ -2,7 +2,7 @@
 layout: post
 title:  self/semi-supervised
 lecture: Not-Ready 
-lectureVersion: next
+lectureVersion: current
 notes: 
 video:  
 extra: true
